@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://escutia.me/adrian</id>
+    <title>Escutia Blog</title>
+    <updated>2024-08-02T10:39:40.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://escutia.me/adrian"/>
+    <subtitle>Escutia Blog</subtitle>
+    <icon>https://escutia.me/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Strategies for continuous learning and professional growth]]></title>
+        <id>https://escutia.me/adrian/strategies-for-continuous-learning-and-professional-growth</id>
+        <link href="https://escutia.me/adrian/strategies-for-continuous-learning-and-professional-growth"/>
+        <updated>2024-08-02T10:39:40.000Z</updated>
+        <summary type="html"><![CDATA[Discover effective strategies for continuous learning and professional growth. Learn how personal projects and innovation can propel your career forward.]]></summary>
+        <content type="html"><![CDATA[<p>Ever wondered how some people seem to know so much about so many different topics and tools? A couple of my friends have asked me this, especially considering the variety of things I juggle daily at work. Some have even asked me if I have a twin or a clone, or if I ever sleep. The truth is, I'm just a regular person who's passionate about learning and growing. I'm always looking for new ways to improve my skills and knowledge.</p>
+<p>Here's my secret: I don't wait for my employer to invest in my professional growth or pay for certifications. Sure, they might provide some learning resources, but those are often too generic. Real learning requires diving deeper, getting your hands dirty, making mistakes, making big efforts, and sometimes sacrificing things like sleep.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="the-power-of-projects-for-professional-growth">The Power of Projects for Professional Growth<a class="hash-link" aria-label="Direct link to The Power of Projects for Professional Growth" title="Direct link to The Power of Projects for Professional Growth" href="https://escutia.me/adrian/strategies-for-continuous-learning-and-professional-growth#the-power-of-projects-for-professional-growth">​</a></h2>
+<p>For me, projects are the best way to learn something new. Think about an intern who starts knowing almost nothing. They learn from senior colleagues. But when you're a senior, you need to find new ways to keep growing. Maybe that's through internal gigs at your company or innovation hackathons. The key is to see your projects implemented and released. That's real motivation - seeing your ideas come to life.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="learning-by-doing-to-gain-real-world-experience">Learning by Doing to gain Real-world experience<a class="hash-link" aria-label="Direct link to Learning by Doing to gain Real-world experience" title="Direct link to Learning by Doing to gain Real-world experience" href="https://escutia.me/adrian/strategies-for-continuous-learning-and-professional-growth#learning-by-doing-to-gain-real-world-experience">​</a></h3>
+<p>I learn by doing. I don't just read about things. I try them out. I experiment. I make mistakes. I learn from those mistakes. I try again. I keep trying until I get it right. I don't give up. I don't get discouraged. I keep going. I keep learning. I keep growing.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="creating-toy-projects">Creating "Toy Projects"<a class="hash-link" aria-label="Direct link to Creating &quot;Toy Projects&quot;" title="Direct link to Creating &quot;Toy Projects&quot;" href="https://escutia.me/adrian/strategies-for-continuous-learning-and-professional-growth#creating-toy-projects">​</a></h2>
+<p>To learn more about specific things, I create "toy projects." These are small projects that solve the personal problems I face daily. If I see potential in these projects, I keep improving them, learning more and adding features. The challenge, of course, is switching contexts. At work, I deal with many different problems, so I build different "toys" and try to connect them like LEGO pieces to create a more robust solution.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="reading-and-watching">Reading and Watching<a class="hash-link" aria-label="Direct link to Reading and Watching" title="Direct link to Reading and Watching" href="https://escutia.me/adrian/strategies-for-continuous-learning-and-professional-growth#reading-and-watching">​</a></h2>
+<p>I also read a lot. I read books, articles, and blog posts. Mainly, I listen to podcasts, but listening carefully, and gather information and ideas that connect with my projects. I follow people who inspire me and share their knowledge. I'm always looking for new ways to learn and grow.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="your-turn">Your Turn<a class="hash-link" aria-label="Direct link to Your Turn" title="Direct link to Your Turn" href="https://escutia.me/adrian/strategies-for-continuous-learning-and-professional-growth#your-turn">​</a></h2>
+<p>What about you? How do you grow professionally and learn new things? Share your strategies—I'd love to hear them!</p>]]></content>
+        <author>
+            <name>Adrian Escutia</name>
+            <uri>https://www.linkedin.com/in/adrianescutia/</uri>
+        </author>
+        <category label="Continuous learning" term="Continuous learning"/>
+        <category label="Professional growth" term="Professional growth"/>
+        <category label="Personal projects" term="Personal projects"/>
+        <category label="Self-improvement" term="Self-improvement"/>
+        <category label="Learning strategies" term="Learning strategies"/>
+        <category label="Skill development" term="Skill development"/>
+        <category label="Career advancement" term="Career advancement"/>
+        <category label="Toy projects" term="Toy projects"/>
+        <category label="Innovation" term="Innovation"/>
+        <category label="Hackathons" term="Hackathons"/>
+        <category label="Real-world experience" term="Real-world experience"/>
+    </entry>
+</feed>

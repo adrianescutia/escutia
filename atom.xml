@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://escutia.me/</id>
+    <title>Escutia Blog</title>
+    <updated>2024-08-02T10:39:40.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://escutia.me/"/>
+    <subtitle>Escutia Blog</subtitle>
+    <icon>https://escutia.me/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[crispin]]></title>
+        <id>https://escutia.me/crispin</id>
+        <link href="https://escutia.me/crispin"/>
+        <updated>2024-08-02T10:39:40.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[donaldo]]></title>
+        <id>https://escutia.me/donaldo</id>
+        <link href="https://escutia.me/donaldo"/>
+        <updated>2024-08-02T10:39:40.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[joel]]></title>
+        <id>https://escutia.me/joel</id>
+        <link href="https://escutia.me/joel"/>
+        <updated>2024-08-02T10:39:40.000Z</updated>
+    </entry>
+</feed>

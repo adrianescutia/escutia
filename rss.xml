@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Escutia Blog</title>
+        <link>https://escutia.me/</link>
+        <description>Escutia Blog</description>
+        <lastBuildDate>Fri, 02 Aug 2024 10:39:40 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>en</language>
+        <item>
+            <title><![CDATA[crispin]]></title>
+            <link>https://escutia.me/crispin</link>
+            <guid>https://escutia.me/crispin</guid>
+            <pubDate>Fri, 02 Aug 2024 10:39:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[donaldo]]></title>
+            <link>https://escutia.me/donaldo</link>
+            <guid>https://escutia.me/donaldo</guid>
+            <pubDate>Fri, 02 Aug 2024 10:39:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[joel]]></title>
+            <link>https://escutia.me/joel</link>
+            <guid>https://escutia.me/joel</guid>
+            <pubDate>Fri, 02 Aug 2024 10:39:40 GMT</pubDate>
+        </item>
+    </channel>
+</rss>

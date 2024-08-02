@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkescutia_website=self.webpackChunkescutia_website||[]).push([[472],{5513:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"crispin","permalink":"/crispin","unlisted":false},{"title":"donaldo","permalink":"/donaldo","unlisted":false},{"title":"joel","permalink":"/joel","unlisted":false}]}')}}]);

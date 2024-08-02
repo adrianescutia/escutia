@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkescutia_website=self.webpackChunkescutia_website||[]).push([[846],{6907:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Strategies for continuous learning and professional growth","permalink":"/adrian/strategies-for-continuous-learning-and-professional-growth","unlisted":false}]}')}}]);
