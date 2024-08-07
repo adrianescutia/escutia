@@ -4,7 +4,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 
 // Hubspot account id - @todo - Replace with your own
 const hubspot = {
-  accountId: '1234567',
+  accountId: '21339207',
 };
 
 const config: Config = {
@@ -49,6 +49,21 @@ const config: Config = {
         },
         theme: {
           customCss: './src/css/custom.css',
+        },
+        gtag: {
+          trackingID: 'G-08BP6YKEP3',
+        },
+        sitemap: {
+          lastmod: 'date',
+          changefreq: 'weekly',
+          priority: 0.5,
+          ignorePatterns: ['/tags/**'],
+          filename: 'sitemap.xml',
+          createSitemapItems: async (params) => {
+            const {defaultCreateSitemapItems, ...rest} = params;
+            const items = await defaultCreateSitemapItems(rest);
+            return items.filter((item) => !item.url.includes('/page/'));
+          },
         },
       } satisfies Preset.Options,
     ],
