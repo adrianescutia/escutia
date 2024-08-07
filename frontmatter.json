@@ -42,6 +42,16 @@
           "title": "Categories",
           "name": "categories",
           "type": "categories"
+        },
+        {
+          "title": "type",
+          "name": "type",
+          "type": "string"
+        },
+        {
+          "title": "image_source",
+          "name": "image_source",
+          "type": "image"
         }
       ]
     }
