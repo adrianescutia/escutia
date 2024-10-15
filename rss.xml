@@ -1,27 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>Escutia Blog</title>
         <link>https://escutia.me/</link>
         <description>Escutia Blog</description>
-        <lastBuildDate>Fri, 02 Aug 2024 10:39:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Oct 2024 12:01:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <item>
-            <title><![CDATA[crispin]]></title>
+            <title><![CDATA[Adrian]]></title>
+            <link>https://escutia.me/a</link>
+            <guid>https://escutia.me/a</guid>
+            <pubDate>Tue, 15 Oct 2024 12:01:59 GMT</pubDate>
+            <description><![CDATA[Redirecting to Adrian's Content... If you are not redirected, click here.]]></description>
+            <content:encoded><![CDATA[<p>Redirecting to <a href="https://escutia.me/adrian/">Adrian's Content</a>... If you are not redirected, click <a href="https://escutia.me/adrian/">here</a>.</p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Crispin]]></title>
             <link>https://escutia.me/crispin</link>
             <guid>https://escutia.me/crispin</guid>
             <pubDate>Fri, 02 Aug 2024 10:39:40 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[donaldo]]></title>
+            <title><![CDATA[Donaldo]]></title>
             <link>https://escutia.me/donaldo</link>
             <guid>https://escutia.me/donaldo</guid>
             <pubDate>Fri, 02 Aug 2024 10:39:40 GMT</pubDate>
+            <description><![CDATA[Thank you for visiting my blog. I am currently working on creating content for this page. In the meantime, you can find me on LinkedIn.]]></description>
+            <content:encoded><![CDATA[<p>Thank you for visiting my blog. I am currently working on creating content for this page. In the meantime, you can find me on <a href="https://www.linkedin.com/in/aldoescutiasoto" target="_blank" rel="noopener noreferrer">LinkedIn</a>.</p>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[joel]]></title>
+            <title><![CDATA[Joel]]></title>
             <link>https://escutia.me/joel</link>
             <guid>https://escutia.me/joel</guid>
             <pubDate>Fri, 02 Aug 2024 10:39:40 GMT</pubDate>
