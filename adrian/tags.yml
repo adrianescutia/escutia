@@ -1,4 +1,24 @@
 docusaurus:
   label: Docusaurus
   permalink: /docusaurus
-  description: Docusaurus tag description
+  description: Docusaurus topics
+airgap:
+  label: Airgap
+  permalink: /airgap
+  description: Airgap environments are isolated from the internet and require special considerations for software installation and updates.
+sbom:
+  label: SBOM
+  permalink: /sbom
+  description: Software Bill of Materials (SBOM) is a list of components in a piece of software.
+kubernetes:
+  label: Kubernetes
+  permalink: /kubernetes
+  description: Kubernetes is an open-source container orchestration platform.
+refine:
+  label: Refine
+  permalink: /refine
+  description: Refine is a development tool that helps you write better and faster code.
+mvp:
+  label: MVP
+  permalink: /mvp
+  description: Minimum Viable Product (MVP) is a product with just enough features to satisfy early customers and provide feedback for future product development.

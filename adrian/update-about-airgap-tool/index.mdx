@@ -1,0 +1,62 @@
+---
+title: "A slight pivot in the Airgap Bundler"
+description: In my experiments journey, I discovered Refine, and decided to pivot slightly in the airgap tool MVP with SBOMs, Refine, and Docusaurus.
+image: ./sbom-power.png
+authors:
+  - adrian
+tags:
+  - airgap
+  - sbom
+  - kubernetes
+  - refine
+  - docusaurus
+  - mvp
+keywords:
+  - Refine
+  - Docusaurus
+  - Airgap
+  - SBOM
+  - Skopeo
+  - Crane
+  - Tools
+  - airgapped
+  - containers
+  - cloud native
+  - CycloneDX
+  - SPDX
+  - Kubernetes
+  - Hybrid cloud
+---
+
+import airgapDemoURL from './k1s-airgap-bundler-demo-s.mp4'
+
+**A slight pivot in the airgap bundler tool MVP to add SBOMs.**
+
+This weekend has been a breakthrough—not necessarily in pushing my tools forward for the community, but in expanding my knowledge. I discovered [Refine](https://refine.dev/), and it is honestly a game changer (for a backend developer like me). It lets me scaffold React projects with a robust, reusable architecture, perfect for developers and solopreneurs. Instead of wasting time reinventing the wheel, you get a clean structure right from the start. Combine this with [Docusaurus](https://docusaurus.io/) in a mono-repo setup, and you've got limitless potential. The combination of these two can redefine how we manage documentation and dashboards in our projects.
+
+That said, I'm going to dedicate another weekend (and nights) to improving the [airgap bundler](https://k1s.sh/airgap) MVP or **SABOR** (flavor in Spanish, **S**oftware **A**irgap **B**ill **o**f Materials **R**esolver) as I like to call it (check the demo video below 👇🏻). I have decided to pivot slightly, the community has given great feedback so far, but after thinking it through, I realized tools like [Skopeo](https://github.com/containers/skopeo) and [Crane](https://github.com/google/go-containerregistry/blob/main/cmd/crane/doc/crane.md) might already be top choices for many. And while the CLI MVP has gotten positive reception, we all know the problem with CLI tools—they are great until you're swimming in flags and options that are impossible to remember.
+
+<!-- truncate -->
+
+So here's the new direction: I'm going to double down on leveraging [SBOMs](https://www.ntia.gov/page/software-bill-materials). I've started with [CycloneDX](https://cyclonedx.org/), and later, introduce [SPDX](https://spdx.dev/) into the mix. This will add more value, making the tool not just another CLI alternative, but one that builds on transparency and security by integrating software bills of materials into the process. Think of it as creating the ultimate airgap distribution package that's not just about bundling images, but about understanding and orchestrating them across multiple environments—whether it is hybrid cloud or airgapped scenarios.
+
+**Why an airgap tool?** Because it's a critical piece in the puzzle of secure software distribution, and deploying cloud native and Kubernetes clusters in airgapped environments is a common challenge.
+
+**Why SBOMs?** They are the key to understanding what is in your software, and they are crucial for security, compliance, and transparency. By integrating SBOMs into the airgap bundler, we're not just creating a tool; we're creating a movement. A movement towards better software practices, better security, and better collaboration, a **Rebel movement**!
+
+Not to mention, that the Kubernetes community is already pushing for SBOMs with [K8s BOM tool](https://kubernetes-sigs.github.io/bom/), and with the [executive order](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/05/12/executive-order-on-improving-the-nations-cybersecurity/) from the White House, it's clear that SBOMs are the future. So why not start now?
+
+It is clear where the industry is heading, and I want to be at the forefront of it. I want to build tools that are not just useful, but essential. Tools that are not just for the community, but by the community. Tools that are not just for today, but for the future.
+
+Here's a sneak peek of the new direction:
+
+<video width="620" autoPlay loop muted>
+  <source src={airgapDemoURL} type="video/mp4"/>
+Your browser does not support the video tag.
+</video>
+
+Don't worry, though. I'm not abandoning the CLI. I'm simply evolving it into something smarter, more intuitive, and community-driven.
+
+Let's keep this momentum going—together, we're building something amazing. Your feedback is crucial, so don't hesitate to share your thoughts. Let's go, Rebels! ✊🏻
+
+Stay tuned for more updates, don't forget to subscribe to the [newsletter](https://go.rebelion.la/k1s-news) for the latest news and updates. And if you haven't already, check out the [airgap bundler](https://k1s.sh/airgap) MVP and let me know what you think.

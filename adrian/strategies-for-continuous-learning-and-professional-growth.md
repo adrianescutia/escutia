@@ -2,10 +2,7 @@
 slug: strategies-for-continuous-learning-and-professional-growth
 title: Strategies for continuous learning and professional growth
 authors:
-  name: Adrian Escutia
-  title: Principal Systems Architect @ HPE
-  url: https://www.linkedin.com/in/adrianescutia/
-  image_url: https://media.licdn.com/dms/image/C4E03AQGyI0fUBAwZZA/profile-displayphoto-shrink_200_200/0/1587047383961?e=1727913600&v=beta&t=fq1ChtOwNEmAmgih6dhYHxDpgaZmYEkRZSv1tuTIcYY
+  - adrian
 tags:
   - Continuous learning
   - Professional growth
@@ -38,6 +35,8 @@ description: Discover effective strategies for continuous learning and professio
 Ever wondered how some people seem to know so much about so many different topics and tools? A couple of my friends have asked me this, especially considering the variety of things I juggle daily at work. Some have even asked me if I have a twin or a clone, or if I ever sleep. The truth is, I'm just a regular person who's passionate about learning and growing. I'm always looking for new ways to improve my skills and knowledge. 
 
 Here's my secret: I don't wait for my employer to invest in my professional growth or pay for certifications. Sure, they might provide some learning resources, but those are often too generic. Real learning requires diving deeper, getting your hands dirty, making mistakes, making big efforts, and sometimes sacrificing things like sleep.
+
+<!-- truncate -->
 
 ## The Power of Projects for Professional Growth
 

@@ -60,7 +60,7 @@ const config: Config = {
           ignorePatterns: ['/tags/**'],
           filename: 'sitemap.xml',
           createSitemapItems: async (params) => {
-            const {defaultCreateSitemapItems, ...rest} = params;
+            const { defaultCreateSitemapItems, ...rest } = params;
             const items = await defaultCreateSitemapItems(rest);
             return items.filter((item) => !item.url.includes('/page/'));
           },
@@ -76,13 +76,30 @@ const config: Config = {
         id: 'adrian',
         routeBasePath: 'adrian',
         path: './adrian',
+      }],
+      // https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-client-redirects
+      // This plugin is always inactive in development and only active in production because it works on the build output
+    ['@docusaurus/plugin-client-redirects',
+      {
+        redirects: [
+          // /docs/oldDoc -> /docs/newDoc
+          // {
+          //   to: '/docs/newDoc',
+          //   from: '/docs/oldDoc',
+          // },
+          // Redirect from multiple old paths to the new path
+          {
+            to: '/adrian',
+            from: ['/a'],
+          },
+        ],
       },
     ],
   ],
 
   themeConfig: {
     // Replace with your project's social card
-    image: 'img/docusaurus-social-card.jpg',
+    image: 'img/escutia-crest.jpg',
     metadata: [
       { name: 'keywords', content: 'Escutia, Adrian Escutia, La Rebelion, Joel Escutia, Donaldo Escutia, Escutias' },
       // {name: 'twitter:card', content: 'summary_large_image'},

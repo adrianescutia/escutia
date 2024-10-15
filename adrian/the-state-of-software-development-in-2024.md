@@ -2,19 +2,24 @@
 title: The State of Software Development in 2024 from StackOverflow
 description: "The State of Software Development in 2024: Insights from StackOverflow's Annual Developer Survey"
 preview: https://images.unsplash.com/photo-1666875753105-c63a6f3bdc86?q=80&w=2673&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
-tags: []
-categories: []
-type: default
-image_source: https://unsplash.com/@dengxiangs
+image: https://images.unsplash.com/photo-1666875753105-c63a6f3bdc86?q=80&w=2673&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
 authors:
-    name: Adrian Escutia
-    title: Principal Systems Architect @ HPE
-    url: https://www.linkedin.com/in/adrianescutia/
-    image_url: https://media.licdn.com/dms/image/C4E03AQGyI0fUBAwZZA/profile-displayphoto-shrink_200_200/0/1587047383961?e=1727913600&v=beta&t=fq1ChtOwNEmAmgih6dhYHxDpgaZmYEkRZSv1tuTIcYY
+  - adrian
+tags:
+    - Software Development
+    - Stack Overflow
+    - AI
+    - PostgreSQL
+    - JavaScript
+    - VS Code
+    - Online Learning
+    - AI Tools
+    - Database Preferences
+    - Cloud Platforms
 keywords:
     - IDE
     - JavaScript popularity
-    - "PostgreSQL "
+    - PostgreSQL
     - Stack Overflow insights
     - StackOverflow
     - State of Software Development
@@ -24,6 +29,8 @@ keywords:
 Software development is a dynamic field that constantly evolves with new technologies, tools, and practices. To understand the current state of software development, Stack Overflow conducts an annual survey of developers worldwide. The 2024 survey, featuring over 65,000 participants from 185 countries, provides valuable insights into the trends shaping the industry. This article explores the key findings of the survey and what they mean for developers and the future of software development.
 
 ![The State of Software Development in 2024](/img/adrian/the-state-of-software-development-in-2024.png)
+
+<!-- truncate -->
 
 ## Key Findings
 
