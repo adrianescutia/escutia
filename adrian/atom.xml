@@ -2,11 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://escutia.me/adrian</id>
     <title>Escutia Blog</title>
-    <updated>2024-10-15T12:01:59.000Z</updated>
+    <updated>2024-10-19T15:16:46.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://escutia.me/adrian"/>
     <subtitle>Escutia Blog</subtitle>
     <icon>https://escutia.me/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Fixing VS Code/Code.exe: Exec format error in WSL]]></title>
+        <id>https://escutia.me/adrian/fixing-vscode-code.exe--exec-format-error-in-wsl</id>
+        <link href="https://escutia.me/adrian/fixing-vscode-code.exe--exec-format-error-in-wsl"/>
+        <updated>2024-10-19T15:16:46.000Z</updated>
+        <summary type="html"><![CDATA[How to fix the Exec format error when trying to open VS Code from WSL.]]></summary>
+        <content type="html"><![CDATA[<p>From time to time, we run into issues that seem trivial but can be quite frustrating, when VS Code doesn't open from WSL, it can be one of those issues and it happens after a Windows update or a VS Code update. Here's how to fix it.</p>
+<p>I recently ran into an issue where I couldn't open Visual Studio Code from WSL. I would get the following error:</p>
+<div class="language-bash codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#393A34;--prism-background-color:#f6f8fa"><div class="codeBlockContent_biex"><pre tabindex="0" class="prism-code language-bash codeBlock_bY9V thin-scrollbar" style="color:#393A34;background-color:#f6f8fa"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#393A34"><span class="token plain">$ code .</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">/c/Users/adria/AppData/Local/Programs/Microsoft VS Code/bin/code: 61: /c/Users/adria/AppData/Local/Programs/Microsoft VS Code/Code.exe: Exec format error</span><br></span></code></pre><div class="buttonGroup__atx"><button type="button" aria-label="Copy code to clipboard" title="Copy" class="clean-btn"><span class="copyButtonIcons_eSgA" aria-hidden="true"><svg viewBox="0 0 24 24" class="copyButtonIcon_y97N"><path fill="currentColor" d="M19,21H8V7H19M19,5H8A2,2 0 0,0 6,7V21A2,2 0 0,0 8,23H19A2,2 0 0,0 21,21V7A2,2 0 0,0 19,5M16,1H4A2,2 0 0,0 2,3V17H4V3H16V1Z"></path></svg><svg viewBox="0 0 24 24" class="copyButtonSuccessIcon_LjdS"><path fill="currentColor" d="M21,7L9,19L3.5,13.5L4.91,12.09L9,16.17L19.59,5.59L21,7Z"></path></svg></span></button></div></div></div>
+<p>Read on to learn how to fix this issue.</p>
+<p>This error is due to the fact that the Windows executable is not compatible with the Linux environment. The solution is to create a symbolic link to the Windows executable from the Linux environment. The solution is simple, but it can be frustrating if you don't know what to do, eventually, you might end up reinstalling VS Code or even WSL; don't do that, I got you covered.</p>
+<p>Here's how to fix it:</p>
+<div class="language-bash codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#393A34;--prism-background-color:#f6f8fa"><div class="codeBlockContent_biex"><pre tabindex="0" class="prism-code language-bash codeBlock_bY9V thin-scrollbar" style="color:#393A34;background-color:#f6f8fa"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#393A34"><span class="token plain">$  sudo sh -c 'echo :WSLInterop:M::MZ::/init:PF &gt; /usr/lib/binfmt.d/WSLInterop.conf'</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">[sudo] password for $USER:</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">$  sudo systemctl unmask systemd-binfmt.service</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">$  sudo systemctl restart systemd-binfmt</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">$  sudo systemctl mask systemd-binfmt.service</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">Created symlink /etc/systemd/system/systemd-binfmt.service → /dev/null.</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">$ code .</span><br></span></code></pre><div class="buttonGroup__atx"><button type="button" aria-label="Copy code to clipboard" title="Copy" class="clean-btn"><span class="copyButtonIcons_eSgA" aria-hidden="true"><svg viewBox="0 0 24 24" class="copyButtonIcon_y97N"><path fill="currentColor" d="M19,21H8V7H19M19,5H8A2,2 0 0,0 6,7V21A2,2 0 0,0 8,23H19A2,2 0 0,0 21,21V7A2,2 0 0,0 19,5M16,1H4A2,2 0 0,0 2,3V17H4V3H16V1Z"></path></svg><svg viewBox="0 0 24 24" class="copyButtonSuccessIcon_LjdS"><path fill="currentColor" d="M21,7L9,19L3.5,13.5L4.91,12.09L9,16.17L19.59,5.59L21,7Z"></path></svg></span></button></div></div></div>
+<p>That's it! You should now be able to open Visual Studio Code from WSL without any issues. If you still have issues, try restarting your WSL session.</p>
+<p>I hope this helps you fix the issue. If you have any questions or comments, feel free to reach out, <a href="https://go.rebelion.la/contact-us" target="_blank" rel="noopener noreferrer">send me a message here</a> or on <a href="https://https//www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&amp;followMember=adrianescutia" target="_blank" rel="noopener noreferrer">LinkedIn</a>. I'm always happy to help. 😊</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="references">References<a href="https://escutia.me/adrian/fixing-vscode-code.exe--exec-format-error-in-wsl#references" class="hash-link" aria-label="Direct link to References" title="Direct link to References">​</a></h2>
+<ul>
+<li>Stack Overflow: <a href="https://stackoverflow.com/a/76975972/5078874" target="_blank" rel="noopener noreferrer">Cannot run any WSL commands/Not able to make WSL work with VS Code (Exec Format Error)</a>.</li>
+<li>GitHub: <a href="https://github.com/microsoft/WSL/issues/8952#issuecomment-1568212651" target="_blank" rel="noopener noreferrer">WSL2 (Preview) cannot run .exe files: exec format error: wsl.exe</a>.</li>
+</ul>]]></content>
+        <author>
+            <name>Adrian Escutia</name>
+            <uri>https://www.linkedin.com/in/adrianescutia/</uri>
+        </author>
+        <category label="vscode" term="vscode"/>
+        <category label="wsl" term="wsl"/>
+        <category label="linux" term="linux"/>
+        <category label="troubleshooting" term="troubleshooting"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A slight pivot in the Airgap Bundler]]></title>
         <id>https://escutia.me/adrian/update-about-airgap-tool</id>

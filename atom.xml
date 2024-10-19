@@ -9,11 +9,12 @@
     <icon>https://escutia.me/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Adrian]]></title>
-        <id>https://escutia.me/a</id>
-        <link href="https://escutia.me/a"/>
+        <id>https://escutia.me/adrianescutia</id>
+        <link href="https://escutia.me/adrianescutia"/>
         <updated>2024-10-15T12:01:59.000Z</updated>
         <summary type="html"><![CDATA[Redirecting to Adrian's Content... If you are not redirected, click here.]]></summary>
-        <content type="html"><![CDATA[<p>Redirecting to <a href="https://escutia.me/adrian/">Adrian's Content</a>... If you are not redirected, click <a href="https://escutia.me/adrian/">here</a>.</p>]]></content>
+        <content type="html"><![CDATA[<p>Redirecting to <a href="https://escutia.me/adrian/">Adrian's Content</a>... If you are not redirected, click <a href="https://escutia.me/adrian/">here</a>.</p>
+<p>return <!-- -->;</p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Crispin]]></title>
