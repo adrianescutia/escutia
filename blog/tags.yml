@@ -2,3 +2,20 @@ docusaurus:
   label: Docusaurus
   permalink: /docusaurus
   description: Docusaurus tag description
+
+vscode:
+  label: Visual Studio Code
+  permalink: /vscode
+  description: Visual Studio Code topics
+wsl:
+  label: Windows Subsystem for Linux
+  permalink: /wsl
+  description: Windows Subsystem for Linux
+linux:
+  label: Visual Studio Code
+  permalink: /linux
+  description: Linux tag description
+troubleshooting:
+  label: Troubleshooting
+  permalink: /troubleshooting
+  description: How to troubleshoot common issues

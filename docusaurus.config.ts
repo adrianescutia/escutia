@@ -2,7 +2,7 @@ import { themes as prismThemes } from 'prism-react-renderer';
 import type { Config } from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
 
-// Hubspot account id - @todo - Replace with your own
+// Hubspot account id
 const hubspot = {
   accountId: '21339207',
 };
@@ -90,7 +90,7 @@ const config: Config = {
           // Redirect from multiple old paths to the new path
           {
             to: '/adrian',
-            from: ['/a'],
+            from: ['/a', '/adrianescutia'],
           },
         ],
       },
@@ -120,6 +120,11 @@ const config: Config = {
         { to: '/adrian', label: 'Adrian', position: 'left' },
         { to: '/joel', label: 'Joel', position: 'left', content: 'Joel Escutia' },
         { to: '/donaldo', label: 'Aldo', position: 'left', content: 'Aldo Escutia' },
+        {
+          href: 'https://go.rebelion.la/contact-us',
+          label: 'Contact',
+          position: 'right',
+        },
         {
           href: 'https://github.com/adrianescutia',
           label: 'GitHub',
@@ -169,6 +174,12 @@ const config: Config = {
       darkTheme: prismThemes.dracula,
     },
   } satisfies Preset.ThemeConfig,
+  scripts: [
+    {
+      src: 'https://js.hsforms.net/forms/embed/v2.js',
+      async: true,
+    },
+  ],
   headTags: [
     {
       tagName: 'script',
