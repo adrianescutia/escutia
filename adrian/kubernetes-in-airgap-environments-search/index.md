@@ -7,7 +7,7 @@ keywords: [kubernetes, airgap, air-gapped, environment, cluster, deployment, man
 image: ./organic-search.png
 ---
 
-I'm excited to share some great news with you all; my blog has made it to the top 3 for **Kubernetes in airgap environments**. For those unfamiliar, airgap environments are places where there's no direct access to the internet or public registries. This poses unique challenges, especially when deploying and managing Kubernetes clusters. Seeing my work recognized for such a critical subject is incredibly rewarding, but I'm not stopping here. I'm aiming for the **top spot**! 🎯
+I'm excited to share some great news with you all; my blog has made it to the top 3 for **[Kubernetes in airgap environments](https://rebelion.la/install-kubernetes-docker-offline)**. For those unfamiliar, airgap environments are places where there's no direct access to the internet or public registries. This poses unique challenges, especially when deploying and managing Kubernetes clusters. Seeing my work recognized for such a critical subject is incredibly rewarding, but I'm not stopping here. I'm aiming for the **top spot**! 🎯
 
 ![Search Console](./search-console-insights-241020.png)
 
@@ -16,6 +16,16 @@ I'm excited to share some great news with you all; my blog has made it to the to
 ## A Big Thanks to the "La Rebelion" Community
 
 I couldn't have done it without you; my community at "[La Rebelion](https://rebelion.la)". Your feedback, support, and insights have been invaluable. Each challenge and question you've shared with me has shaped the content, helping us all navigate the tough waters of airgap environments. It's all about learning together and building better solutions.
+
+### Popular Topics in Kubernetes Airgap Environments
+
+Here are some of the most popular topics we've covered:
+
+- [Installing Kubernetes and Docker Offline](https://rebelion.la/install-kubernetes-docker-offline)
+- [The Easieast Kubernetes Installations Ever](https://rebelion.la/the-easiest-kubernetes-installations-ever) for diffetent Kubernetes distros.
+- [How to install Kubernetes in airgapped environments without a container runtime](https://rebelion.la/how-to-install-kubernetes-in-airgapped-environments-without-a-container-runtime)
+
+![Popular Topics](./popular-content-at-la-rebelion-241020.png)
 
 ## Let's Talk About Your Challenges
 
