@@ -4,10 +4,38 @@
         <title>Escutia Blog</title>
         <link>https://escutia.me/adrian</link>
         <description>Escutia Blog</description>
-        <lastBuildDate>Sat, 19 Oct 2024 15:16:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Oct 2024 12:07:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Kubernetes in Airgap Environments: Climbing to the Top Spot!]]></title>
+            <link>https://escutia.me/adrian/kubernetes-in-airgap-environments-search</link>
+            <guid>https://escutia.me/adrian/kubernetes-in-airgap-environments-search</guid>
+            <pubDate>Mon, 21 Oct 2024 12:07:27 GMT</pubDate>
+            <description><![CDATA[We are one of the top 3 blogs for Kubernetes in airgap environments. The challenges of airgap environments are real, but we can overcome them together.]]></description>
+            <content:encoded><![CDATA[<p>I'm excited to share some great news with you all; my blog has made it to the top 3 for <strong>Kubernetes in airgap environments</strong>. For those unfamiliar, airgap environments are places where there's no direct access to the internet or public registries. This poses unique challenges, especially when deploying and managing Kubernetes clusters. Seeing my work recognized for such a critical subject is incredibly rewarding, but I'm not stopping here. I'm aiming for the <strong>top spot</strong>! 🎯</p>
+<p><img decoding="async" loading="lazy" alt="Search Console" src="https://escutia.me/assets/images/search-console-insights-241020-94f1ee6f615de75cbf17ca76b965ecbb.png" width="630" height="849" class="img_ev3q"></p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="a-big-thanks-to-the-la-rebelion-community">A Big Thanks to the "La Rebelion" Community<a href="https://escutia.me/adrian/kubernetes-in-airgap-environments-search#a-big-thanks-to-the-la-rebelion-community" class="hash-link" aria-label="Direct link to A Big Thanks to the &quot;La Rebelion&quot; Community" title="Direct link to A Big Thanks to the &quot;La Rebelion&quot; Community">​</a></h2>
+<p>I couldn't have done it without you; my community at "<a href="https://rebelion.la/" target="_blank" rel="noopener noreferrer">La Rebelion</a>". Your feedback, support, and insights have been invaluable. Each challenge and question you've shared with me has shaped the content, helping us all navigate the tough waters of airgap environments. It's all about learning together and building better solutions.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="lets-talk-about-your-challenges">Let's Talk About Your Challenges<a href="https://escutia.me/adrian/kubernetes-in-airgap-environments-search#lets-talk-about-your-challenges" class="hash-link" aria-label="Direct link to Let's Talk About Your Challenges" title="Direct link to Let's Talk About Your Challenges">​</a></h2>
+<p>As I continue to improve the content and tools, I want to hear from you. Are you facing issues with <strong>Kubernetes in airgap environments</strong>? Or perhaps struggling with <strong>API management</strong> and integration? If so, I'm eager to help. I'm developing solutions through my tools at <a href="https://k1s.sh/" target="_blank" rel="noopener noreferrer">K1s</a> and <a href="https://apicove.com/" target="_blank" rel="noopener noreferrer">APICove</a> to address the specific pain points engineers and product managers deal with.</p>
+<p>Here's where you come in: let me know what's getting in your way. Whether it's managing dependencies, handling upgrades, or creating resilient pipelines in environments with no internet, I want to know. Your challenges fuel the creation of better tools that will make your job easier.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="tools-to-watch-k1s-and-skope-quest">Tools to Watch: K1s and Skope Quest<a href="https://escutia.me/adrian/kubernetes-in-airgap-environments-search#tools-to-watch-k1s-and-skope-quest" class="hash-link" aria-label="Direct link to Tools to Watch: K1s and Skope Quest" title="Direct link to Tools to Watch: K1s and Skope Quest">​</a></h2>
+<p>You're likely already familiar with <a href="https://k1s.sh/" target="_blank" rel="noopener noreferrer">K1s</a>, which simplifies workflows for <strong>Kubernetes airgap environments</strong>. But I'm also working on a new tool; <a href="https://skope.quest/" target="_blank" rel="noopener noreferrer">Skope Quest</a>; designed to help manage product backlogs, particularly for <strong>software engineers</strong> and <strong>technical product managers</strong>. Think of it as a productivity booster tailored for the challenges we face in cloud-native and DevOps environments.</p>
+<p>The journey doesn't stop at Kubernetes or APIs. Tools like <strong>Skope Quest</strong> will soon allow you to <strong>manage your projects more efficiently</strong>, whether you're working with code or leading a team through complex technical decisions. Stay tuned for its release!</p>
+<p>These all are solutions to problems I've faced myself, and I'm excited to share them with you. I have to disclose that they're still in the early stages, and even though some are already helping many, others are still in product discovery mode. But remember, your feedback is crucial to making these tools as effective as possible.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="lets-work-together-to-make-it-to-1">Let's Work Together to Make It to #1<a href="https://escutia.me/adrian/kubernetes-in-airgap-environments-search#lets-work-together-to-make-it-to-1" class="hash-link" aria-label="Direct link to Let's Work Together to Make It to #1" title="Direct link to Let's Work Together to Make It to #1">​</a></h2>
+<p>It's clear that Kubernetes in airgap environments is a space full of challenges and innovation. By working together, we can build a community that not only solves today's problems but also shapes the future of how we work in restricted environments. I'm committed to developing more content and tools that <strong>make your life easier</strong>, and I need your feedback to get there.</p>
+<p>So, let's keep the conversation going. What are you dealing with right now? How can I help you tackle the roadblocks you're facing with <strong>Kubernetes</strong> or <strong>API management</strong>? Let's team up, solve these problems together, and get to that number one spot!</p>
+<hr>
+<p><strong>Thank you again</strong> for the support, and stay tuned for more updates. Don't hesitate to <a href="https://https//www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&amp;followMember=adrianescutia" target="_blank" rel="noopener noreferrer">connect with me</a>, whether you want to collaborate, share your challenges, or simply <a href="https://go.rebelion.la/contact-us" target="_blank" rel="noopener noreferrer">say hi</a>.</p>
+<p>Let's break those airgaps down, one challenge at a time. Go Rebels! ✊🏻</p>
+<p><strong>– Adrian</strong><br>
+<strong>Founder, La Rebelion</strong></p>]]></content:encoded>
+            <category>Kubernetes</category>
+            <category>Airgap</category>
+        </item>
         <item>
             <title><![CDATA[Fixing VS Code/Code.exe: Exec format error in WSL]]></title>
             <link>https://escutia.me/adrian/fixing-vscode-code.exe--exec-format-error-in-wsl</link>
@@ -27,11 +55,12 @@
 <ul>
 <li>Stack Overflow: <a href="https://stackoverflow.com/a/76975972/5078874" target="_blank" rel="noopener noreferrer">Cannot run any WSL commands/Not able to make WSL work with VS Code (Exec Format Error)</a>.</li>
 <li>GitHub: <a href="https://github.com/microsoft/WSL/issues/8952#issuecomment-1568212651" target="_blank" rel="noopener noreferrer">WSL2 (Preview) cannot run .exe files: exec format error: wsl.exe</a>.</li>
+<li>Image source: <a href="https://unsplash.com/@shekai" target="_blank" rel="noopener noreferrer">Shekai at Unsplash</a>.</li>
 </ul>]]></content:encoded>
-            <category>vscode</category>
-            <category>wsl</category>
-            <category>linux</category>
-            <category>troubleshooting</category>
+            <category>Visual Studio Code</category>
+            <category>Windows Subsystem for Linux</category>
+            <category>Visual Studio Code</category>
+            <category>Troubleshooting</category>
         </item>
         <item>
             <title><![CDATA[A slight pivot in the Airgap Bundler]]></title>
@@ -56,7 +85,7 @@
             <category>SBOM</category>
             <category>Kubernetes</category>
             <category>Refine</category>
-            <category>Docusaurus</category>
+            <category>docusaurus</category>
             <category>MVP</category>
         </item>
         <item>
@@ -107,14 +136,11 @@
 <li><a href="https://stackoverflow.blog/2024/07/24/developers-want-more-more-more-the-2024-results-from-stack-overflow-s-annual-developer-survey/" target="_blank" rel="noopener noreferrer">2024 Results from Stack Overflow Annual Developer Survey</a></li>
 </ul>]]></content:encoded>
             <category>Software Development</category>
-            <category>Stack Overflow</category>
-            <category>AI</category>
+            <category>Artificial Intelligence</category>
             <category>PostgreSQL</category>
             <category>JavaScript</category>
-            <category>VS Code</category>
-            <category>Online Learning</category>
+            <category>Visual Studio Code</category>
             <category>AI Tools</category>
-            <category>Database Preferences</category>
             <category>Cloud Platforms</category>
         </item>
         <item>
@@ -144,8 +170,6 @@
             <category>Career advancement</category>
             <category>Toy projects</category>
             <category>Innovation</category>
-            <category>Hackathons</category>
-            <category>Real-world experience</category>
         </item>
     </channel>
 </rss>
