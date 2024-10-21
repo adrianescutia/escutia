@@ -13,8 +13,6 @@ tags:
   - Career advancement
   - Toy projects
   - Innovation
-  - Hackathons
-  - Real-world experience
 categories:
   - Self-improvement
   - Professional growth

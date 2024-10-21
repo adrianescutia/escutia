@@ -1,7 +1,3 @@
-docusaurus:
-  label: Docusaurus
-  permalink: /docusaurus
-  description: Docusaurus topics
 airgap:
   label: Airgap
   permalink: /airgap
@@ -22,3 +18,79 @@ mvp:
   label: MVP
   permalink: /mvp
   description: Minimum Viable Product (MVP) is a product with just enough features to satisfy early customers and provide feedback for future product development.
+vscode:
+  label: Visual Studio Code
+  permalink: /vscode
+  description: Visual Studio Code topics
+wsl:
+  label: Windows Subsystem for Linux
+  permalink: /wsl
+  description: Windows Subsystem for Linux
+linux:
+  label: Visual Studio Code
+  permalink: /linux
+  description: Linux tag description
+troubleshooting:
+  label: Troubleshooting
+  permalink: /troubleshooting
+  description: How to troubleshoot common issues
+continuous-learning:
+  label: Continuous Learning
+  permalink: /continuous-learning
+  description: Continuous learning and professional growth
+professional-growth:
+  label: Professional Growth
+  permalink: /professional-growth
+  description: Professional growth and career advancement
+personal-projects:
+  label: Personal Projects
+  permalink: /personal-projects
+  description: Personal projects and toy projects
+self-improvement:
+  label: Self-Improvement
+  permalink: /self-improvement
+  description: Self-improvement and learning strategies
+learning-strategies:
+  label: Learning Strategies
+  permalink: /learning-strategies
+  description: Learning strategies and skill development
+skill-development:
+  label: Skill Development
+  permalink: /skill-development
+  description: Skill development and career advancement
+career-advancement:
+  label: Career Advancement
+  permalink: /career-advancement
+  description: Career advancement and professional growth
+toy-projects:
+  label: Toy Projects
+  permalink: /toy-projects
+  description: Toy projects and innovation
+innovation:
+  label: Innovation
+  permalink: /innovation
+  description: Innovation and hackathons
+software-development:
+  label: Software Development
+  permalink: /software-development
+  description: Software development topics
+ai:
+  label: Artificial Intelligence
+  permalink: /ai
+  description: Artificial Intelligence topics
+postgres:
+  label: PostgreSQL
+  permalink: /postgres
+  description: PostgreSQL is an open-source relational database management system.
+javascript:
+  label: JavaScript
+  permalink: /javascript
+  description: JavaScript is a programming language that powers the web.
+ai-tools:
+  label: AI Tools
+  permalink: /ai-tools
+  description: AI tools and libraries for machine learning and artificial intelligence.
+cloud-platforms:
+  label: Cloud Platforms
+  permalink: /cloud-platforms
+  description: Cloud platforms and cloud computing services.

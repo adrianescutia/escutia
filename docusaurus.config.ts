@@ -77,8 +77,8 @@ const config: Config = {
         routeBasePath: 'adrian',
         path: './adrian',
       }],
-      // https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-client-redirects
-      // This plugin is always inactive in development and only active in production because it works on the build output
+    // https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-client-redirects
+    // This plugin is always inactive in development and only active in production because it works on the build output
     ['@docusaurus/plugin-client-redirects',
       {
         redirects: [
@@ -140,7 +140,7 @@ const config: Config = {
           items: [
             {
               label: 'Adrian Escutia',
-              to: '/adrian/',
+              href: 'https://https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=adrianescutia',
             },
           ],
         },
@@ -151,18 +151,34 @@ const config: Config = {
               label: 'YouTube',
               href: 'https://www.youtube.com/channel/UCclw2hNbGj-vVanDwFh42CQ/',
             },
+            {
+              label: 'Add Caffeine',
+              href: 'https://www.buymeacoffee.com/larebelion',
+            },
+            {
+              label: 'LinkedIn Company',
+              href: 'https://www.linkedin.com/company/larebelion-labs',
+            },
+            {
+              label: 'GitHub',
+              href: 'https://github.com/la-rebelion',
+            },
           ],
         },
         {
           title: 'More',
           items: [
             {
-              label: 'Simplifiying Cloud Tech',
+              label: 'Simplifiying Kubernetes Blog',
               href: 'https://rebelion.la',
             },
             {
-              label: 'GitHub',
-              href: 'https://github.com/la-rebelion',
+              label: 'APICove - API Tools',
+              href: 'https://apicove.com',
+            },
+            {
+              label: 'K1s - Kubernetes in 1 second',
+              href: 'https://k1s.sh',
             },
           ],
         },

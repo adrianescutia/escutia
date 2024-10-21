@@ -55,3 +55,4 @@ I hope this helps you fix the issue. If you have any questions or comments, feel
 
 * Stack Overflow: [Cannot run any WSL commands/Not able to make WSL work with VS Code (Exec Format Error)](https://stackoverflow.com/a/76975972/5078874).
 * GitHub: [WSL2 (Preview) cannot run .exe files: exec format error: wsl.exe](https://github.com/microsoft/WSL/issues/8952#issuecomment-1568212651).
+* Image source: [Shekai at Unsplash](https://unsplash.com/@shekai).

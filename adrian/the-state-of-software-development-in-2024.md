@@ -6,16 +6,13 @@ image: https://images.unsplash.com/photo-1666875753105-c63a6f3bdc86?q=80&w=2673&
 authors:
   - adrian
 tags:
-    - Software Development
-    - Stack Overflow
-    - AI
-    - PostgreSQL
-    - JavaScript
-    - VS Code
-    - Online Learning
-    - AI Tools
-    - Database Preferences
-    - Cloud Platforms
+    - software-development
+    - ai
+    - postgres
+    - javascript
+    - vscode
+    - ai-tools
+    - cloud-platforms
 keywords:
     - IDE
     - JavaScript popularity
