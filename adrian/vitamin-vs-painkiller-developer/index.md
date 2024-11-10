@@ -8,6 +8,10 @@ keywords:
   - developer
   - IT managers
   - devops
+  - Continuous Improvement
+  - Painkiller
+  - Innovation
+  - Culture
 image: /img/adrian/vitamin-developer-vs-painkiller-developer.webp
 preview: /img/adrian/vitamin-developer-vs-painkiller-developer.webp
 tags:
