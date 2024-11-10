@@ -4,10 +4,196 @@
         <title>Escutia Blog</title>
         <link>https://escutia.me/adrian</link>
         <description>Escutia Blog</description>
-        <lastBuildDate>Mon, 21 Oct 2024 12:07:27 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Nov 2024 16:19:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Setting Bold Goals for 2025]]></title>
+            <link>https://escutia.me/adrian/setting-bold-goals-for-2025</link>
+            <guid>https://escutia.me/adrian/setting-bold-goals-for-2025</guid>
+            <pubDate>Sun, 10 Nov 2024 16:19:02 GMT</pubDate>
+            <description><![CDATA[I'm setting ambitious goals for 2025, aiming to boost my Social Selling Index (SSI) by 2 points in Industry and 3 points in my Network.]]></description>
+            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="setting-bold-goals-for-2025-my-journey-of-growth-and-knowledge-sharing">Setting Bold Goals for 2025: My Journey of Growth and Knowledge Sharing<a href="https://escutia.me/adrian/setting-bold-goals-for-2025#setting-bold-goals-for-2025-my-journey-of-growth-and-knowledge-sharing" class="hash-link" aria-label="Direct link to Setting Bold Goals for 2025: My Journey of Growth and Knowledge Sharing" title="Direct link to Setting Bold Goals for 2025: My Journey of Growth and Knowledge Sharing">​</a></h2>
+<p>I've never aimed to be the smartest person in the room. I'm not a genius by any means and I don't have all the answers, but I'm always driven to push boundaries and solve problems that excite me. Recently, my blog has reached the top 3 search results for Kubernetes in airgap environments; a big win for me, because it means people are finding value in what I'm sharing. But, of course, I'm aiming even higher for that number one spot!</p>
+<p><img decoding="async" loading="lazy" alt="Adrian&amp;#39;s Social Selling Index (SSI)" src="https://escutia.me/assets/images/adrian-ssi-241024-cfa15168706af2d4bf88a4d1c94f6d7e.png" width="1146" height="870" class="img_ev3q"></p>
+<p>On the LinkedIn front, I just discovered the <strong>Social Selling Index (SSI)</strong>, which feels a bit like the SEO world of LinkedIn. It's been eye-opening, and it's motivated me to set some ambitious goals for 2025. I'm aiming to boost my SSI by 2 points in Industry and 3 points in my Network. It's a challenge, but challenges are where growth happens.</p>
+<p>What fuels me? Creating innovative solutions, solving complex problems, and sharing that knowledge with others. I believe in a cycle: create, grow, share, and then start all over again. It's about continuous improvement and lifting others up along the way.</p>
+<p>While I don't consider myself a salesperson, I know that delivering real technical solutions speaks for itself. This journey isn't just about hitting numbers; it's about helping others grow and learning together, if I can build a community around that and my personal growth goals, then I'm on the right track. Let's see where 2025 takes us.</p>
+<p>::: tip</p>
+<p>I know it seems like to early to be thinking about 2025, but it's never too early to set goals and start working towards them.</p>
+<p>:::</p>
+<p>Go boldly, and help others along the way. Go Rebels! ✊🏻</p>
+<p>To get the content and tools I'm sharing to help you grow and learn, follow me also on:</p>
+<ul>
+<li>"<a href="https://rebelion.la/" target="_blank" rel="noopener noreferrer">La Rebelion</a>" - All about Kubernetes, DevOps, and Cloud Native</li>
+<li><a href="https://https//www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&amp;followMember=adrianescutia" target="_blank" rel="noopener noreferrer">Adrian Escutia</a> - This is my personal LinkedIn profile</li>
+<li><a href="https://apicove.com/" target="_blank" rel="noopener noreferrer">APICove</a> - API-First Tools to Accelerate Your Development</li>
+<li><a href="https://k1s.sh/" target="_blank" rel="noopener noreferrer">K1s</a> - Simpliying Kubernetes in airgap environments</li>
+</ul>]]></content:encoded>
+            <category>Professional Growth</category>
+            <category>Continuous Learning</category>
+        </item>
+        <item>
+            <title><![CDATA[Vitamin vs Painkiller Developer: Balance Innovation & Crisis]]></title>
+            <link>https://escutia.me/adrian/vitamin-vs-painkiller-developer.md</link>
+            <guid>https://escutia.me/adrian/vitamin-vs-painkiller-developer.md</guid>
+            <pubDate>Sun, 10 Nov 2024 16:19:02 GMT</pubDate>
+            <description><![CDATA[Are you a vitamin or a painkiller developer? Learn how to position yourself as a painkiller developer to solve real problems and create value for your users.]]></description>
+            <content:encoded><![CDATA[<p>Not all developers solve problems the same way. Some build features that are "nice to have," while others address urgent, pressing issues. The difference? They're either a "<strong>Vitamin Developer</strong>" or a "<strong>Painkiller Developer</strong>."</p>
+<p>In the startups world, <a href="https://www.forbes.com/sites/georgedeeb/2014/07/24/is-your-startup-building-a-vitamin-or-a-painkiller/" target="_blank" rel="noopener noreferrer">the term "painkiller"</a> is often used to describe a product or service that solves a pressing problem for customers, it is expected to be a <strong>must-have</strong> in order to solve a pain point, while a "vitamin" is a product or service that is <strong>nice to have</strong>, but not essential, as an example, a painkiller would be a CRM system for a sales team, while a vitamin would be a team chat tool. It's something they need, not just something they want. Taking this analogy further, I think that in the tech world, the same concept applies to developers, but <strong>we need both</strong> types if we want to build a successful team less reactive and more proactive.</p>
+<p>In every tech team, you'll find two types of developers. There are those who are <strong>painkillers</strong>; they fix urgent, high-priority issues, stopping the bleeding when systems go down or bugs impact customers. Then there are the <strong>vitamin developers</strong>; the ones who build long-term solutions that prevent these issues from happening in the first place. Both types are critical for the success of any team, but it's the <strong>balance between the two</strong> that creates a high-performing DevOps or IT organization.</p>
+<p>This post dives deep into the <strong>vitamin vs. painkiller</strong> analogy, exploring how it applies to developers, DevOps engineers, and IT managers. We'll also cover how key cultural values like <strong>failure tolerance, curiosity, chaos under control</strong>, and a <strong>willingness to learn</strong> can transform your team into a powerhouse that not only solves today's problems but prevents tomorrow's disasters.</p>
+<p><img decoding="async" loading="lazy" alt="Vitamin Developer vs Painkiller Developer" src="https://escutia.me/assets/images/vitamin-developer-vs-painkiller-developer-9ddf29ffe46884cd81ddf1dd8b953416.webp" width="1792" height="1024" class="img_ev3q"></p>
+<blockquote>
+<p>The best outcomes happen when proactive and reactive approaches work hand-in-hand, each informing and strengthening the other.</p>
+</blockquote>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="1-the-vitamin-developer-proactive-innovation">1. The Vitamin Developer: Proactive Innovation<a href="https://escutia.me/adrian/vitamin-vs-painkiller-developer.md#1-the-vitamin-developer-proactive-innovation" class="hash-link" aria-label="Direct link to 1. The Vitamin Developer: Proactive Innovation" title="Direct link to 1. The Vitamin Developer: Proactive Innovation">​</a></h2>
+<p>Vitamin developers are the <strong>architects of long-term stability</strong>. They focus on building solutions that make systems more robust, scalable, and easier to maintain. Their work doesn't always solve immediate, high-stakes problems. Instead, it acts as a <strong>preventive measure</strong>, ensuring those problems don't arise in the first place.</p>
+<p>In the world of DevOps, vitamin developers are the ones setting up <strong>automation</strong>, optimizing CI/CD pipelines, and introducing tools and frameworks that allow your team to work faster and smarter. They might not always get the spotlight because their work isn't as visible as fixing an outage, but they're the unsung heroes <strong>who prevent outages from happening at all.</strong></p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="the-value-of-proactive-solutions">The Value of Proactive Solutions<a href="https://escutia.me/adrian/vitamin-vs-painkiller-developer.md#the-value-of-proactive-solutions" class="hash-link" aria-label="Direct link to The Value of Proactive Solutions" title="Direct link to The Value of Proactive Solutions">​</a></h3>
+<ol>
+<li><strong>System Resilience</strong>: Vitamin developers build systems that can handle unexpected load spikes, recover from failures, and operate without constant oversight.</li>
+<li><strong>Automation</strong>: They prioritize automating repetitive tasks, reducing the risk of human error and freeing up time for more strategic work.</li>
+<li><strong>Preventive Monitoring</strong>: These developers also set up monitoring and alerting systems, allowing teams to <strong>detect potential issues</strong> before they escalate into full-blown problems.</li>
+<li><strong>Continuous Improvement</strong>: Vitamin developers are always looking for ways to <strong>improve</strong>; whether it's through new tools, better processes, or optimizing existing workflows.</li>
+<li><strong>Scalability</strong>: They design systems that can grow with the business, ensuring that as your user base expands, your infrastructure can handle the load.</li>
+<li><strong>Security</strong>: Vitamin developers prioritize security measures, implementing best practices to protect systems from vulnerabilities and attacks.</li>
+<li><strong>Technical Debt Reduction</strong>: They work to pay down technical debt, refactoring codebases and optimizing systems to reduce the risk of future issues.</li>
+<li><strong>Innovation</strong>: Vitamin developers are often the ones driving innovation within a team, introducing new technologies and approaches that keep systems ahead of the curve.</li>
+</ol>
+<hr>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="2-the-painkiller-developer-reactive-problem-solving">2. The Painkiller Developer: Reactive Problem Solving<a href="https://escutia.me/adrian/vitamin-vs-painkiller-developer.md#2-the-painkiller-developer-reactive-problem-solving" class="hash-link" aria-label="Direct link to 2. The Painkiller Developer: Reactive Problem Solving" title="Direct link to 2. The Painkiller Developer: Reactive Problem Solving">​</a></h2>
+<p>Painkiller developers are the <strong>firefighters</strong> of your team. When something goes wrong; whether it's an outage, security breach, or a critical bug; they're the ones who swoop in to fix things and get systems back online. Their work is <strong>high-stakes and urgent</strong>, and often comes with a lot of pressure.</p>
+<p>But without painkiller developers, businesses would grind to a halt during incidents. They thrive in chaos, solving problems quickly and under pressure. Their ability to stay calm and think critically during a crisis is invaluable, especially in today's high-availability environments where downtime can cost a company millions.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="the-value-of-reactive-solutions">The Value of Reactive Solutions<a href="https://escutia.me/adrian/vitamin-vs-painkiller-developer.md#the-value-of-reactive-solutions" class="hash-link" aria-label="Direct link to The Value of Reactive Solutions" title="Direct link to The Value of Reactive Solutions">​</a></h3>
+<ol>
+<li><strong>Incident Response</strong>: Painkiller developers are the first responders in an outage or incident, quickly diagnosing and resolving the issue to minimize downtime.</li>
+<li><strong>Crisis Management</strong>: They work well under pressure and are skilled at <strong>prioritizing tasks</strong> in high-stress situations, focusing on the most critical problems.</li>
+<li><strong>Root Cause Analysis</strong>: Once the immediate issue is fixed, they're able to dive into the <strong>root cause</strong> to ensure it doesn't happen again.</li>
+<li><strong>Knowledge of Legacy Systems</strong>: These developers are often well-versed in <strong>legacy systems</strong> and infrastructure, allowing them to troubleshoot deeply embedded issues that others might overlook.</li>
+<li><strong>On-Call Support</strong>: Painkiller developers are often part of the on-call rotation, ready to respond to incidents at any time of day or night.</li>
+<li><strong>Quick Fixes</strong>: They're skilled at applying <strong>temporary fixes</strong> that restore normal operations, buying time for vitamin developers to implement long-term solutions.</li>
+<li><strong>Adaptability</strong>: Painkiller developers are adaptable and can switch context quickly, moving from one problem to the next without missing a beat.</li>
+<li><strong>Customer Focus</strong>: They understand the impact of incidents on customers and are driven to <strong>resolve issues</strong> as quickly as possible to minimize disruption.</li>
+</ol>
+<hr>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="3-the-need-for-balance-why-both-are-critical">3. The Need for Balance: Why Both Are Critical<a href="https://escutia.me/adrian/vitamin-vs-painkiller-developer.md#3-the-need-for-balance-why-both-are-critical" class="hash-link" aria-label="Direct link to 3. The Need for Balance: Why Both Are Critical" title="Direct link to 3. The Need for Balance: Why Both Are Critical">​</a></h2>
+<p>Here's the reality: <strong>You need both types of developers.</strong></p>
+<p>Painkiller developers are critical in any environment where uptime is a priority (which, let's face it, is every modern business). They keep things running smoothly by <strong>responding to critical issues</strong> in real time. But without vitamin developers, you'd be stuck in a never-ending cycle of reactive firefighting, never improving the systems or preventing future problems.</p>
+<p>Vitamin developers, on the other hand, are your <strong>long-term strategic thinkers</strong>. They work to build systems that reduce the need for constant intervention. However, without painkillers, they'd lack the real-time insights that come from managing systems under stress.</p>
+<p>It's the <strong>balance between proactive and reactive work</strong> that makes a tech team truly successful. Vitamin developers keep you ahead of the curve, while painkiller developers ensure you can respond when things don't go according to plan.</p>
+<p>Where are you on the vitamin vs. painkiller spectrum? Are you more focused on building long-term solutions that prevent issues, or are you the first to jump in when things go wrong? Recognizing your strengths and areas for growth can help you position yourself as a <strong>well-rounded developer</strong> who can tackle any challenge that comes your way.</p>
+<hr>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="4-culture-the-backbone-of-high-performing-teams">4. Culture: The Backbone of High-Performing Teams<a href="https://escutia.me/adrian/vitamin-vs-painkiller-developer.md#4-culture-the-backbone-of-high-performing-teams" class="hash-link" aria-label="Direct link to 4. Culture: The Backbone of High-Performing Teams" title="Direct link to 4. Culture: The Backbone of High-Performing Teams">​</a></h2>
+<p>Building a strong team of vitamin and painkiller developers starts with the <strong>right culture</strong>. This isn't just about hiring the right people; it's about fostering an environment where both types of work are respected and encouraged. Here's how the key cultural values play a role:</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="failure-tolerance-a-key-to-growth">Failure Tolerance: A Key to Growth<a href="https://escutia.me/adrian/vitamin-vs-painkiller-developer.md#failure-tolerance-a-key-to-growth" class="hash-link" aria-label="Direct link to Failure Tolerance: A Key to Growth" title="Direct link to Failure Tolerance: A Key to Growth">​</a></h3>
+<p>In a culture that values <strong><a href="https://hbr.org/2002/08/the-failure-tolerant-leader" target="_blank" rel="noopener noreferrer">failure tolerance</a></strong>, developers feel safe to take risks. Vitamin developers need this when they're experimenting with new tools, frameworks, or approaches that could <strong>improve systems long-term</strong>. Painkiller developers need it when they're making fast decisions in the heat of an incident, where not every fix is perfect.</p>
+<ul>
+<li><strong>Failure is Part of the Process</strong>: Teams that allow failure create a <strong>learning environment</strong> where both types of developers can grow. Encourage experimentation and learning from mistakes. With a colleague in my job, we have our private team name: "Monkeys with hammer crew," because we are always trying new things and sometimes we break things. But that's how we learn. Even Monkeys fall from trees, right? 🔨🐒🌳</li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="curiosity-driving-continuous-improvement">Curiosity: Driving Continuous Improvement<a href="https://escutia.me/adrian/vitamin-vs-painkiller-developer.md#curiosity-driving-continuous-improvement" class="hash-link" aria-label="Direct link to Curiosity: Driving Continuous Improvement" title="Direct link to Curiosity: Driving Continuous Improvement">​</a></h3>
+<p><strong>Curiosity</strong> fuels both types of work. Vitamin developers are constantly asking, <em>"How can we make this better?"</em> Painkiller developers ask, <em>"What caused this problem?"</em> and generate hypotheses to test. By fostering curiosity, you empower your team to not only solve problems but also to <strong>prevent them in the future</strong>.</p>
+<ul>
+<li><strong>Encourage Exploration</strong>: Teams should have the time and resources to <strong>explore new ideas</strong>. Whether it's testing out new DevOps tools or running experiments with chaos engineering, curiosity leads to innovation.</li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="chaos-under-control-a-crucial-balance">Chaos Under Control: A Crucial Balance<a href="https://escutia.me/adrian/vitamin-vs-painkiller-developer.md#chaos-under-control-a-crucial-balance" class="hash-link" aria-label="Direct link to Chaos Under Control: A Crucial Balance" title="Direct link to Chaos Under Control: A Crucial Balance">​</a></h3>
+<p>Chaos is inevitable in IT, but the best teams know how to keep it <strong>under control</strong>. Painkiller developers are often the ones managing chaos in real-time, but vitamin developers are the ones who create <strong>structures and processes</strong> to keep that chaos at bay in the future.</p>
+<ul>
+<li><strong>Embrace Controlled Chaos</strong>: Controlled chaos is a powerful driver of innovation. By encouraging teams to <strong>experiment and iterate</strong> even during high-stakes moments, you create resilience.</li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="willingness-to-learn-adapting-to-an-evolving-landscape">Willingness to Learn: Adapting to an Evolving Landscape<a href="https://escutia.me/adrian/vitamin-vs-painkiller-developer.md#willingness-to-learn-adapting-to-an-evolving-landscape" class="hash-link" aria-label="Direct link to Willingness to Learn: Adapting to an Evolving Landscape" title="Direct link to Willingness to Learn: Adapting to an Evolving Landscape">​</a></h3>
+<p>Tech evolves quickly. Whether you're a painkiller or vitamin developer, you need to have a <strong>willingness to learn</strong>. Painkiller developers need to stay up to date on the latest <strong>incident response techniques</strong> and tools, while vitamin developers need to be constantly learning about <strong>new methods for improving systems</strong>.</p>
+<ul>
+<li><strong>Create a Learning Culture</strong>: Encourage your team to continuously learn. Whether it's through formal training, side projects, or internal knowledge sharing, the more your team knows, the better equipped they'll be to handle future challenges.</li>
+</ul>
+<hr>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="5-the-role-of-chaos-under-control">5. The Role of Chaos (Under Control)<a href="https://escutia.me/adrian/vitamin-vs-painkiller-developer.md#5-the-role-of-chaos-under-control" class="hash-link" aria-label="Direct link to 5. The Role of Chaos (Under Control)" title="Direct link to 5. The Role of Chaos (Under Control)">​</a></h2>
+<p><img decoding="async" loading="lazy" alt="Role of Chaos under control" src="https://escutia.me/assets/images/the-role-of-chaos-in-tech-and-devops-3c8c3a23ee71899dfb7121bd3f49cdfd.webp" width="1792" height="1024" class="img_ev3q"></p>
+<p>In DevOps, chaos is a given. Systems break, outages happen, and unexpected events throw even the best teams into disarray. However, how your team <strong>handles that chaos</strong> determines its success. Painkiller developers thrive in these situations, quickly diagnosing and resolving issues to restore order.</p>
+<p>But here's the key: chaos can be <strong>harnessed</strong>. <a href="https://www.gremlin.com/community/tutorials/chaos-engineering-the-history-principles-and-practice" target="_blank" rel="noopener noreferrer">Chaos engineering</a>; intentionally introducing failures to test system resilience; is one way vitamin developers bring <strong>order to chaos</strong>. By experimenting with controlled chaos, they can <strong>prevent future issues</strong> and make systems more robust.</p>
+<ul>
+<li><strong>Painkiller's Role in Chaos</strong>: They resolve chaos in real-time, applying quick fixes that restore normalcy.</li>
+<li><strong>Vitamin's Role in Chaos</strong>: They study that chaos to understand its root cause and implement changes that make future disruptions less likely.</li>
+</ul>
+<p>By embracing chaos under control, your team can turn what might seem like a disaster into an opportunity for growth and improvement. Chaos becomes a tool for learning, a way to test systems, and a path to resilience. Talking about tools, the <a href="https://landscape.cncf.io/?group=projects-and-products&amp;view-mode=grid&amp;category=Observability+and+Analysis" target="_blank" rel="noopener noreferrer">CNCF Chaos Engineering landscape</a> is a great place to start if you want to learn more about the tools available. Breaking things on purpose is a great way to learn how to fix them when they break on their own, and doing so in a controlled environment is the best way to learn.</p>
+<hr>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="6-willingness-to-learn-and-experiment-a-non-negotiable-trait">6. Willingness to Learn and Experiment: A Non-Negotiable Trait<a href="https://escutia.me/adrian/vitamin-vs-painkiller-developer.md#6-willingness-to-learn-and-experiment-a-non-negotiable-trait" class="hash-link" aria-label="Direct link to 6. Willingness to Learn and Experiment: A Non-Negotiable Trait" title="Direct link to 6. Willingness to Learn and Experiment: A Non-Negotiable Trait">​</a></h2>
+<p><img decoding="async" loading="lazy" alt="Willingness to Learn and Experiment" src="https://escutia.me/assets/images/willingness-to-learn-developer-b3cfa3b75a36d4a04764c9eaf9540162.webp" width="1792" height="1024" class="img_ev3q"></p>
+<blockquote>
+<p>Continous learning and experimentation are key traits that drive innovation and growth.</p>
+</blockquote>
+<p>In an industry where <strong>technology evolves constantly</strong>, a <strong>willingness to learn</strong> is non-negotiable. Developers must continually update their knowledge, whether they're tackling incidents in production or working on long-term improvements. Curiosity and experimentation are key traits that drive innovation and growth.</p>
+<ul>
+<li>
+<p><strong>Experimentation is Key for Vitamin Developers</strong>: Innovation doesn't happen without experimentation. Encourage your vitamin developers to try new tools and approaches, even if they don't always work. This willingness to experiment leads to breakthroughs that make systems stronger in the long run.</p>
+</li>
+<li>
+<p><strong>Painkiller Developers Learn in the Heat of the Moment</strong>: On the flip side, painkiller developers often learn through <strong>on-the-job experiences</strong>, especially when solving time-critical issues. Their real-time problem-solving often leads to insights that can be applied to future projects.</p>
+</li>
+</ul>
+<p>By fostering a culture of learning and experimentation, you create a team that's <strong>adaptable, resilient, and always improving</strong>. Whether it's through formal training, side projects, or internal knowledge sharing, the more your team knows, the better equipped they'll be to handle future challenges.</p>
+<hr>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="7-continuous-improvement-the-path-to-success">7. Continuous Improvement: The Path to Success<a href="https://escutia.me/adrian/vitamin-vs-painkiller-developer.md#7-continuous-improvement-the-path-to-success" class="hash-link" aria-label="Direct link to 7. Continuous Improvement: The Path to Success" title="Direct link to 7. Continuous Improvement: The Path to Success">​</a></h2>
+<p>Both vitamin and painkiller developers need to focus on <strong>continuous improvement</strong>. Whether it's by reducing the frequency of incidents or optimizing processes for faster deployments, both types of developers contribute to a cycle of <strong>iteration and improvement</strong>.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="for-painkiller-developers">For Painkiller Developers:<a href="https://escutia.me/adrian/vitamin-vs-painkiller-developer.md#for-painkiller-developers" class="hash-link" aria-label="Direct link to For Painkiller Developers:" title="Direct link to For Painkiller Developers:">​</a></h3>
+<ul>
+<li><strong>Learning from Failures</strong>: After every incident, conduct a <strong>post-mortem analysis</strong> to identify what went wrong and how to prevent it next time. This process should feed directly into your vitamin developers' work to improve systems; is a cycle of learning and improvement that benefits the entire team.</li>
+<li><strong>Automating Incident Response</strong>: Look for opportunities to automate repetitive incident response tasks. By creating playbooks and runbooks, you can streamline your response process and reduce the time it takes to resolve issues.</li>
+</ul>
+<p>Tools you can use for this are <a href="https://www.pagerduty.com/platform/automation/runbook/" target="_blank" rel="noopener noreferrer">PagerDuty Runbook</a>, <a href="https://www.splunk.com/en_us/resources.html" target="_blank" rel="noopener noreferrer">Splunk</a>, [OpsGenie](<a href="https://www.ops/" target="_blank" rel="noopener noreferrer">https://www.ops</a> genie.com/), <a href="https://www.squadcast.com/product/runbooks" target="_blank" rel="noopener noreferrer">Squadcast Runbooks</a>, and <a href="https://www.xmatters.com/features/incident-response" target="_blank" rel="noopener noreferrer">xMatters</a>.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="for-vitamin-developers">For Vitamin Developers:<a href="https://escutia.me/adrian/vitamin-vs-painkiller-developer.md#for-vitamin-developers" class="hash-link" aria-label="Direct link to For Vitamin Developers:" title="Direct link to For Vitamin Developers:">​</a></h3>
+<ul>
+<li><strong>Building Resilience</strong>: Continuous improvement is essential to building more resilient systems. This involves refining processes, improving automation, and reducing the number of incidents over time. Regularly iterating on infrastructure, codebases, and workflows ensures that systems become more scalable and fault-tolerant.</li>
+<li><strong>Feedback Loops</strong>: Implement feedback loops between painkiller and vitamin developers. Painkiller developers can share insights from incidents, helping vitamin developers better understand the weaknesses in current systems. This collaboration creates a <strong>cycle of learning and improvement</strong> that benefits the entire team.</li>
+</ul>
+<p>Tools that vitamin developers can use are <a href="https://netflix.github.io/chaosmonkey/" target="_blank" rel="noopener noreferrer">Chaos Monkey</a> from Netflix, <a href="https://www.gremlin.com/" target="_blank" rel="noopener noreferrer">Gremlin</a>, <a href="https://chaos-mesh.org/" target="_blank" rel="noopener noreferrer">Chaos Mesh</a>, and <a href="https://chaostoolkit.org/" target="_blank" rel="noopener noreferrer">Chaos Toolkit</a>. These tools allow you to simulate real-world failures in a controlled environment, helping you identify weaknesses and strengthen your systems to prevent incidents in production.</p>
+<p>By focusing on continuous improvement, your team can create a culture of <strong>learning, growth, and innovation</strong>. Whether it's through post-incident reviews, automation, or feedback loops, the more your team invests in improvement, the stronger your systems will become.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="8-building-a-culture-that-supports-both-types-of-developers">8. Building a Culture That Supports Both Types of Developers<a href="https://escutia.me/adrian/vitamin-vs-painkiller-developer.md#8-building-a-culture-that-supports-both-types-of-developers" class="hash-link" aria-label="Direct link to 8. Building a Culture That Supports Both Types of Developers" title="Direct link to 8. Building a Culture That Supports Both Types of Developers">​</a></h2>
+<p>To truly balance the work of vitamin and painkiller developers, your team culture needs to support both <strong>proactive</strong> and <strong>reactive</strong> mindsets. This starts at the leadership level. Leaders must ensure that both types of work are <strong>valued equally</strong> and that team members feel empowered to contribute in different ways.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="encourage-collaboration">Encourage Collaboration<a href="https://escutia.me/adrian/vitamin-vs-painkiller-developer.md#encourage-collaboration" class="hash-link" aria-label="Direct link to Encourage Collaboration" title="Direct link to Encourage Collaboration">​</a></h3>
+<p>One of the most effective ways to balance vitamin and painkiller developers is through collaboration. Regularly bring the two groups together to share insights, learn from each other, and <strong>cross-pollinate ideas</strong>. Painkiller developers often have deep knowledge of real-world system behavior, which is invaluable for vitamin developers who are building preventive solutions.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="prioritize-knowledge-sharing">Prioritize Knowledge Sharing<a href="https://escutia.me/adrian/vitamin-vs-painkiller-developer.md#prioritize-knowledge-sharing" class="hash-link" aria-label="Direct link to Prioritize Knowledge Sharing" title="Direct link to Prioritize Knowledge Sharing">​</a></h3>
+<p>Knowledge sharing is key to creating a well-rounded team. Ensure that your painkiller developers share post-incident reports and lessons learned, and that your vitamin developers document and communicate system improvements. Create a culture where <strong>knowledge flows freely</strong>, so the team can grow together.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="create-dedicated-time-for-proactive-work">Create Dedicated Time for Proactive Work<a href="https://escutia.me/adrian/vitamin-vs-painkiller-developer.md#create-dedicated-time-for-proactive-work" class="hash-link" aria-label="Direct link to Create Dedicated Time for Proactive Work" title="Direct link to Create Dedicated Time for Proactive Work">​</a></h3>
+<p>A common pitfall in many organizations is that reactive work tends to dominate the schedule. When firefighting takes over, vitamin developers may not get the time they need to focus on long-term improvements. To combat this, it's crucial to <strong>carve out dedicated time</strong> for proactive work. Whether it's through dedicated sprints or designated improvement days, creating space for vitamin work ensures your team isn't stuck in reactive mode forever.</p>
+<p><img decoding="async" loading="lazy" src="https://cdn.statically.io/img/cdn.rebelion.la/img/Tech%20Debt%20Quadrant%20Model.png" alt="Technical Debt Quadrant Model" class="img_ev3q"></p>
+<blockquote>
+<p>Technical debt is a common challenge for many teams, but it can be managed effectively with the right approach.</p>
+</blockquote>
+<p>Take a look at my blog post about the <a href="https://rebelion.la/technical-debt-quadrant-model/" target="_blank" rel="noopener noreferrer">technical debt quadrant model</a>, to learn more about how to manage technical debt and pay it down effectively.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="celebrate-small-wins">Celebrate Small Wins<a href="https://escutia.me/adrian/vitamin-vs-painkiller-developer.md#celebrate-small-wins" class="hash-link" aria-label="Direct link to Celebrate Small Wins" title="Direct link to Celebrate Small Wins">​</a></h3>
+<p>Both painkiller and vitamin work can feel like a thankless job at times. Painkiller developers may feel the burnout of constant firefighting, while vitamin developers may get frustrated when their preventive work goes unnoticed. <strong>Celebrate small wins</strong> for both sides of the team. Recognize the quick fixes that resolve incidents, and also highlight the improvements that reduce incidents over time.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="9-embracing-a-growth-mindset-for-developers-and-managers">9. Embracing a Growth Mindset for Developers and Managers<a href="https://escutia.me/adrian/vitamin-vs-painkiller-developer.md#9-embracing-a-growth-mindset-for-developers-and-managers" class="hash-link" aria-label="Direct link to 9. Embracing a Growth Mindset for Developers and Managers" title="Direct link to 9. Embracing a Growth Mindset for Developers and Managers">​</a></h2>
+<p>Both developers and managers need to embrace a <strong>growth mindset</strong> to support the balance of vitamin and painkiller work. This means being open to learning from mistakes, staying curious about new technologies, and being willing to experiment. A growth mindset fosters <strong>continuous improvement</strong>, allowing teams to evolve and adapt to changing business needs and technological landscapes.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="for-managers">For Managers<a href="https://escutia.me/adrian/vitamin-vs-painkiller-developer.md#for-managers" class="hash-link" aria-label="Direct link to For Managers" title="Direct link to For Managers">​</a></h3>
+<ul>
+<li>
+<p><strong>Enable Learning Opportunities</strong>: Encourage your team to attend workshops, conferences, or online courses. Providing time and resources for learning keeps your team <strong>up-to-date</strong> with the latest industry trends and helps vitamin developers stay ahead of potential issues before they arise.</p>
+</li>
+<li>
+<p><strong>Be a Role Model</strong>: Demonstrate the importance of both reactive and proactive approaches in your own leadership. Show your team that you value long-term innovation just as much as immediate problem-solving. <strong>Lead by example</strong> by promoting a culture of learning, resilience, and balance.</p>
+</li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="for-developers">For Developers<a href="https://escutia.me/adrian/vitamin-vs-painkiller-developer.md#for-developers" class="hash-link" aria-label="Direct link to For Developers" title="Direct link to For Developers">​</a></h3>
+<ul>
+<li>
+<p><strong>Curiosity as a Core Value</strong>: Cultivate a <strong>curiosity-driven approach</strong> to your work. For vitamin developers, this means constantly looking for ways to optimize and improve systems. For painkiller developers, curiosity means diving deep into incidents and asking <em>"why"</em> to understand the root cause of problems.</p>
+</li>
+<li>
+<p><strong>Adapt to Chaos</strong>: Chaos is inevitable in IT, but how you respond to it matters. Painkiller developers need to <strong>stay calm under pressure</strong>, while vitamin developers should embrace chaos as a tool for learning. Through chaos engineering, they can simulate real-world failures to strengthen systems and prevent incidents.</p>
+</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="the-power-of-balance">The Power of Balance<a href="https://escutia.me/adrian/vitamin-vs-painkiller-developer.md#the-power-of-balance" class="hash-link" aria-label="Direct link to The Power of Balance" title="Direct link to The Power of Balance">​</a></h2>
+<p>At the core of any successful DevOps or IT team is a <strong>balance</strong> between vitamin and painkiller developers. By building a culture that supports both proactive innovation and reactive problem-solving, you create an environment where your team can <strong>thrive</strong>. Painkiller developers will ensure your systems remain stable in the face of crises, while vitamin developers will build the resilience to prevent future incidents.</p>
+<p>The most effective teams don't just react to problems; they anticipate them and continuously improve to avoid them altogether. By fostering a culture that values <strong>failure tolerance, curiosity, chaos under control</strong>, and a <strong>willingness to learn</strong>, you set your team up for long-term success. Remember, the <strong>best outcomes</strong> happen when proactive and reactive approaches work hand-in-hand, each informing and strengthening the other.</p>
+<p>The best developers are those who can <strong>embrace both mindsets</strong>, but being realistic, what are the customers' needs and desires? They for sure don't want to have a system that is always down, but they also don't want to have a system that is always down because of the constant changes.</p>
+<p>It's not about choosing between a <strong>painkiller</strong> or a <strong>vitamin</strong> mindset; it's about embracing both, and recognizing that <strong>together</strong>, they create a more resilient, innovative, and adaptable team.</p>
+<p>What type of developer are you? How do you balance proactive and reactive work in your team? Share your thoughts in the comments below!</p>
+<p>Go boldly, and help others along the way. Go Rebels! ✊🏻</p>]]></content:encoded>
+            <category>Culture</category>
+            <category>Continuous Learning</category>
+        </item>
         <item>
             <title><![CDATA[Kubernetes in Airgap Environments: Climbing to the Top Spot!]]></title>
             <link>https://escutia.me/adrian/kubernetes-in-airgap-environments-search</link>
@@ -93,7 +279,6 @@
             <category>SBOM</category>
             <category>Kubernetes</category>
             <category>Refine</category>
-            <category>docusaurus</category>
             <category>MVP</category>
         </item>
         <item>
@@ -169,14 +354,14 @@
 <p>I also read a lot. I read books, articles, and blog posts. Mainly, I listen to podcasts, but listening carefully, and gather information and ideas that connect with my projects. I follow people who inspire me and share their knowledge. I'm always looking for new ways to learn and grow.</p>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="your-turn">Your Turn<a href="https://escutia.me/adrian/strategies-for-continuous-learning-and-professional-growth#your-turn" class="hash-link" aria-label="Direct link to Your Turn" title="Direct link to Your Turn">​</a></h2>
 <p>What about you? How do you grow professionally and learn new things? Share your strategies—I'd love to hear them!</p>]]></content:encoded>
-            <category>Continuous learning</category>
-            <category>Professional growth</category>
-            <category>Personal projects</category>
-            <category>Self-improvement</category>
-            <category>Learning strategies</category>
-            <category>Skill development</category>
-            <category>Career advancement</category>
-            <category>Toy projects</category>
+            <category>Continuous Learning</category>
+            <category>Professional Growth</category>
+            <category>Personal Projects</category>
+            <category>Self-Improvement</category>
+            <category>Learning Strategies</category>
+            <category>Skill Development</category>
+            <category>Career Advancement</category>
+            <category>Toy Projects</category>
             <category>Innovation</category>
         </item>
     </channel>
