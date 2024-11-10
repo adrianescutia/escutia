@@ -4,15 +4,15 @@ title: Strategies for continuous learning and professional growth
 authors:
   - adrian
 tags:
-  - Continuous learning
-  - Professional growth
-  - Personal projects
-  - Self-improvement
-  - Learning strategies
-  - Skill development
-  - Career advancement
-  - Toy projects
-  - Innovation
+  - continuous-learning
+  - professional-growth
+  - personal-projects
+  - self-improvement
+  - learning-strategies
+  - skill-development
+  - career-advancement
+  - toy-projects
+  - innovation
 categories:
   - Self-improvement
   - Professional growth

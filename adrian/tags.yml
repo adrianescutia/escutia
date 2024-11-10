@@ -94,3 +94,7 @@ cloud-platforms:
   label: Cloud Platforms
   permalink: /cloud-platforms
   description: Cloud platforms and cloud computing services.
+culture:
+  label: Culture
+  permalink: /culture
+  description: Culture and team dynamics in the workplace.
