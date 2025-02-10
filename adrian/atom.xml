@@ -2,11 +2,70 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://escutia.me/adrian</id>
     <title>Escutia Blog</title>
-    <updated>2024-11-10T16:19:02.000Z</updated>
+    <updated>2025-02-10T12:11:54.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://escutia.me/adrian"/>
     <subtitle>Escutia Blog</subtitle>
     <icon>https://escutia.me/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[How to remove a file from Git commit history]]></title>
+        <id>https://escutia.me/adrian/remove-a-file-from-git-history</id>
+        <link href="https://escutia.me/adrian/remove-a-file-from-git-history"/>
+        <updated>2025-02-10T12:11:54.000Z</updated>
+        <summary type="html"><![CDATA[Learn how to remove a file from Git commit history when it isn't pushed to a remote repository.]]></summary>
+        <content type="html"><![CDATA[<p>Sometimes, you may accidentally commit sensitive information like passwords or API keys to your Git repository. If the sensitive information is in a file like <code>.env</code>, you should remove it from the commit history to prevent it from being exposed. Oh, my... I have been there before. 😰</p>
+<p>If the <code>.env</code> file is only in your local Git repository and has not been pushed to a remote repository yet, you are kind of lucky. In this case, you can remove it from the history using an interactive rebase or by resetting the commit that added the file.</p>
+<p>Here is a method to achieve this:</p>
+<p>Interactive Rebase</p>
+<p><strong>Start Interactive Rebase:</strong></p>
+<p>Start an interactive rebase for the last few commits (adjust the number N to include the commit that added the <code>.env</code> file).</p>
+<p><code>git rebase -i HEAD~N</code></p>
+<p><strong>Edit the Commit:</strong></p>
+<p>In the interactive rebase editor, change the command from <code>pick</code> to <strong><code>edit</code></strong> for the commit that added the <code>.env</code> file.</p>
+<p><strong>Remove the File:</strong></p>
+<p>Remove the <code>.env</code> file from the commit.</p>
+<div class="language-bash codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#393A34;--prism-background-color:#f6f8fa"><div class="codeBlockContent_biex"><pre tabindex="0" class="prism-code language-bash codeBlock_bY9V thin-scrollbar" style="color:#393A34;background-color:#f6f8fa"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#393A34"><span class="token plain">git rm --cached .env</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">git commit --amend --no-edit</span><br></span></code></pre><div class="buttonGroup__atx"><button type="button" aria-label="Copy code to clipboard" title="Copy" class="clean-btn"><span class="copyButtonIcons_eSgA" aria-hidden="true"><svg viewBox="0 0 24 24" class="copyButtonIcon_y97N"><path fill="currentColor" d="M19,21H8V7H19M19,5H8A2,2 0 0,0 6,7V21A2,2 0 0,0 8,23H19A2,2 0 0,0 21,21V7A2,2 0 0,0 19,5M16,1H4A2,2 0 0,0 2,3V17H4V3H16V1Z"></path></svg><svg viewBox="0 0 24 24" class="copyButtonSuccessIcon_LjdS"><path fill="currentColor" d="M21,7L9,19L3.5,13.5L4.91,12.09L9,16.17L19.59,5.59L21,7Z"></path></svg></span></button></div></div></div>
+<p><strong>Continue Rebase:</strong></p>
+<p>Continue the rebase process.</p>
+<p><code>git rebase --continue</code></p>
+<p>Ooooh my gosh! You have successfully removed the <code>.env</code> file from the commit history. 😰</p>
+<p>If you pushed the <code>.env</code> file to a remote repository, you should consider rotating the credentials and changing the passwords or API keys. It's better to be safe than sorry. To remove the file from the commit history in a remote repository, you will need to force push the changes. However, force pushing changes to a remote repository is not recommended if you are working in a team. It can cause conflicts and make it difficult for others to work on the project. There are tools that can help you remove sensitive information from the commit history without force pushing changes. Here are a few tools you can use:</p>
+<ul>
+<li><a href="https://rtyley.github.io/bfg-repo-cleaner/" target="_blank" rel="noopener noreferrer">BFG Repo-Cleaner</a>.</li>
+<li><a href="https://github.com/newren/git-filter-repo" target="_blank" rel="noopener noreferrer">git-filter-repo</a>.</li>
+<li><a href="https://git-scm.com/docs/git-filter-branch" target="_blank" rel="noopener noreferrer">git-filter-branch</a>.</li>
+</ul>
+<p>I hope this helps a little and saves you from a headache. 😅</p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Java Enters the AI Arena with MCP and Quarkus]]></title>
+        <id>https://escutia.me/adrian/java-enters-the-ai-arena-with-mcp</id>
+        <link href="https://escutia.me/adrian/java-enters-the-ai-arena-with-mcp"/>
+        <updated>2025-02-10T12:11:54.000Z</updated>
+        <summary type="html"><![CDATA[With the introduction of MCP into Java, thanks to the Quarkus framework, developers can now build AI-powered applications with minimal effort.]]></summary>
+        <content type="html"><![CDATA[<p>AI is reshaping the developer landscape, and Java refuses to be left behind. With the introduction of <a href="https://modelcontextprotocol.io/" target="_blank" rel="noopener noreferrer">Model Context Protocol</a> (MCP) into Java, thanks to the <a href="https://quarkus.io/get-started/" target="_blank" rel="noopener noreferrer">Quarkus framework</a>, developers can now build AI-powered applications with minimal effort. As Max Andersen brilliantly put it in the Quarkus Insights video: "<em>If AI doesn't come to Java, Java goes to AI.</em>"</p>
+<div style="width:640px;height:360px"></div>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="ai-is-booming-but-java-has-been-left-behind">AI is Booming, But Java Has Been Left Behind<a href="https://escutia.me/adrian/java-enters-the-ai-arena-with-mcp#ai-is-booming-but-java-has-been-left-behind" class="hash-link" aria-label="Direct link to AI is Booming, But Java Has Been Left Behind" title="Direct link to AI is Booming, But Java Has Been Left Behind">​</a></h2>
+<p>AI development is exploding across industries, with Python and TypeScript leading the charge. Python has long dominated AI and machine learning due to its rich ecosystem of libraries like TensorFlow, PyTorch, and scikit-learn. Meanwhile, TypeScript is making strides in AI-powered web applications and serverless environments.</p>
+<p>However, Java—despite being a dominant force in enterprise applications—has largely been on the sidelines of the AI revolution. Many AI frameworks and models are optimized for Python, leaving Java developers with fewer native options for integrating AI into their stacks.</p>
+<p>Now, that's changing.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="what-is-mcp-model-context-protocol">What is MCP (Model Context Protocol)?<a href="https://escutia.me/adrian/java-enters-the-ai-arena-with-mcp#what-is-mcp-model-context-protocol" class="hash-link" aria-label="Direct link to What is MCP (Model Context Protocol)?" title="Direct link to What is MCP (Model Context Protocol)?">​</a></h2>
+<p>MCP is an emerging protocol that enables applications to interact with AI models using structured context, making AI-driven solutions more predictable and manageable. It simplifies the way developers feed context to AI models and retrieve meaningful responses, leveraging SSE (Server-Sent Events) transport for real-time interaction.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="why-is-mcp-in-java-a-big-deal">Why is MCP in Java a Big Deal?<a href="https://escutia.me/adrian/java-enters-the-ai-arena-with-mcp#why-is-mcp-in-java-a-big-deal" class="hash-link" aria-label="Direct link to Why is MCP in Java a Big Deal?" title="Direct link to Why is MCP in Java a Big Deal?">​</a></h3>
+<p>With MCP landing in Java via Quarkus, developers can:</p>
+<ul>
+<li>Easily integrate AI models into Java applications.</li>
+<li>Use annotations to streamline AI interaction.</li>
+<li>Expose AI-driven services with SSE transport for real-time responses.</li>
+<li>Leverage Quarkus's fast startup times and small footprint, making it ideal for AI workloads in cloud and edge environments.</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="hands-on-getting-started-with-mcp-in-java">Hands-On: Getting Started with MCP in Java<a href="https://escutia.me/adrian/java-enters-the-ai-arena-with-mcp#hands-on-getting-started-with-mcp-in-java" class="hash-link" aria-label="Direct link to Hands-On: Getting Started with MCP in Java" title="Direct link to Hands-On: Getting Started with MCP in Java">​</a></h2>
+<p>If you're ready to explore this exciting new integration, check out the full <a href="https://www.youtube.com/live/qr7ysMrVxMY?si=wAmyCBDAXc7wgzn7" target="_blank" rel="noopener noreferrer">video demo here</a>; by the day this article is published, I was not able to find the MCP extension in the <a href="https://quarkus.io/guides/" target="_blank" rel="noopener noreferrer">Quarkus extension catalog</a>, but you can dive into the Quarkus MCP Server GitHub repo <a href="https://github.com/quarkiverse/quarkus-mcp-server" target="_blank" rel="noopener noreferrer">here</a> and the Quarkus MCP Servers GitHub repo <a href="https://github.com/quarkiverse/quarkus-mcp-servers" target="_blank" rel="noopener noreferrer">here</a>.</p>
+<p>For those interested in expanding their AI capabilities even further, Agentico offers additional tooling for AI-powered agents in TypeScript. Learn more about it <a href="https://agentico.dev/docs/intro" target="_blank" rel="noopener noreferrer">here</a>.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="whats-next">What's Next?<a href="https://escutia.me/adrian/java-enters-the-ai-arena-with-mcp#whats-next" class="hash-link" aria-label="Direct link to What's Next?" title="Direct link to What's Next?">​</a></h2>
+<p>I'll be diving deeper into how MCP can be leveraged for real-world <strong>AI applications in Java</strong>, experimenting with <a href="https://agentico.dev/" target="_blank" rel="noopener noreferrer">Agentico</a> and Quarkus to see how developers can supercharge their AI projects. Stay tuned for more insights and hands-on examples!</p>
+<p>🚀 Java meets AI – let's build the future together! Go Rebels! ✊🏻</p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Setting Bold Goals for 2025]]></title>
         <id>https://escutia.me/adrian/setting-bold-goals-for-2025</id>
