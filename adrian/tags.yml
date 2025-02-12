@@ -86,6 +86,10 @@ javascript:
   label: JavaScript
   permalink: /javascript
   description: JavaScript is a programming language that powers the web.
+typescript:
+  label: TypeScript
+  permalink: /typescript
+  description: TypeScript is a programming language that is a superset of JavaScript.
 ai-tools:
   label: AI Tools
   permalink: /ai-tools
@@ -98,3 +102,23 @@ culture:
   label: Culture
   permalink: /culture
   description: Culture and team dynamics in the workplace.
+java:
+  label: Java
+  permalink: /java
+  description: Java is a programming language and computing platform first released by Sun Microsystems in 1995.
+docker:
+  label: Docker
+  permalink: /docker
+  description: Docker is a set of platform as a service (PaaS) products that use OS-level virtualization to deliver software in packages called containers.
+npm:
+  label: npm
+  permalink: /npm
+  description: npm is a package manager for JavaScript.
+nodejs:
+  label: Node.js
+  permalink: /nodejs
+  description: Node.js is a JavaScript runtime built on Chrome's V8 JavaScript engine.
+git:
+  label: Git
+  permalink: /git
+  description: Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.

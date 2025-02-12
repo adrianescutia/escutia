@@ -2,6 +2,24 @@
 title: "Fixing 'npm install did not complete successfully' Docker"
 description: "Fixing 'npm install did not complete successfully' error in Docker build"
 draft: true
+authors:
+  - adrian
+tags:
+  - docker
+  - npm
+  - typescript
+  - nodejs
+  - javascript
+keywords:
+  - docker
+  - npm
+  - typescript
+  - nodejs
+  - javascript
+  - npm install
+  - docker build
+  - dockerfile
+  - fixing npm install
 ---
 
 # Fixing 'npm install did not complete successfully' error in Docker build

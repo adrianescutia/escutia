@@ -1,6 +1,19 @@
 ---
 title: How to remove a file from Git commit history
 description: Learn how to remove a file from Git commit history when it isn't pushed to a remote repository.
+authors:
+  - adrian
+tags:
+  - git
+keywords:
+  - git
+  - remove file
+  - commit history
+  - git history
+  - git remove file
+  - git remove file from history
+  - git remove file from commit
+  - git remove file from commit history
 ---
 
 # How to remove a file from Git commit history (when it isn't pushed to a remote repository)
