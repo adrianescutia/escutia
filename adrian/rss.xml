@@ -4,10 +4,61 @@
         <title>Escutia Blog</title>
         <link>https://escutia.me/adrian</link>
         <description>Escutia Blog</description>
-        <lastBuildDate>Wed, 12 Feb 2025 09:16:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Feb 2025 15:55:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[You Code Go Like You Code Java]]></title>
+            <link>https://escutia.me/adrian/you-code-go-like-you-code-java-donts-dos</link>
+            <guid>https://escutia.me/adrian/you-code-go-like-you-code-java-donts-dos</guid>
+            <pubDate>Fri, 14 Feb 2025 15:55:21 GMT</pubDate>
+            <description><![CDATA[Different programming languages aren't just different syntactically. What works in one may be an anti-pattern in another.]]></description>
+            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="a-funny-yet-familiar-story">A Funny Yet Familiar Story<a href="https://escutia.me/adrian/you-code-go-like-you-code-java-donts-dos#a-funny-yet-familiar-story" class="hash-link" aria-label="Direct link to A Funny Yet Familiar Story" title="Direct link to A Funny Yet Familiar Story">​</a></h2>
+<p>I was once in a technical interview with a senior Java developer who shared a hilarious yet painfully relatable experience. At his company, developers weren't confined to just one or two languages; they had to jump between different languages depending on the project. One day, after a code review, a senior Go developer told him:</p>
+<blockquote>
+<p>"<em>You code Go as if you were coding Java.</em>" 😅</p>
+</blockquote>
+<p>Oof. That hit hard. But it's also a perfect illustration of why languages aren't interchangeable.  Different programming languages aren't just different syntactically; they embody unique paradigms, styles, and philosophies. What works in one may be an anti-pattern in another. Let's dive into why this happens and what it means for the future of Java in a world filled with AI, agents, and enterprise-grade systems.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="why-not-all-languages-are-created-equal">Why Not All Languages Are Created Equal<a href="https://escutia.me/adrian/you-code-go-like-you-code-java-donts-dos#why-not-all-languages-are-created-equal" class="hash-link" aria-label="Direct link to Why Not All Languages Are Created Equal" title="Direct link to Why Not All Languages Are Created Equal">​</a></h2>
+<p>Every programming language is born with a purpose. Go was designed for simplicity and concurrency, Python for readability and rapid development, and Java for robustness and maintainability in enterprise environments. However, the problem arises when developers bring the habits of one language into another.</p>
+<p><img decoding="async" loading="lazy" alt="Which language are you coding in" src="https://escutia.me/assets/images/which-programming-language-4b7a9dfcd2634b81b1361527dce9b38f.svg" width="596" height="604" class="img_ev3q"></p>
+<p>This is why learning a new language isn't just about understanding syntax; it's about adapting to a different way of thinking. Java developers moving to Go might struggle with Go's preference for composition over inheritance, its minimalistic error handling, and the lack of traditional OOP features. Similarly, a Python developer forced into Java might find themselves missing the ease of dynamic typing and concise syntax but will soon appreciate Java's strict typing and predictability in large systems.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="python-great-for-beginners-but-not-for-everything">Python: Great for Beginners, But Not for Everything<a href="https://escutia.me/adrian/you-code-go-like-you-code-java-donts-dos#python-great-for-beginners-but-not-for-everything" class="hash-link" aria-label="Direct link to Python: Great for Beginners, But Not for Everything" title="Direct link to Python: Great for Beginners, But Not for Everything">​</a></h2>
+<p>Python is often hailed as one of the best languages for beginners; and for good reason:</p>
+<p>✅ <strong>Readability:</strong> Its simple, English-like syntax lowers the barrier to entry.<br>
+<!-- -->🪄 <strong>Dynamic Typing:</strong> No need to worry about variable declarations.<br>
+<!-- -->📚 <strong>Large Community &amp; Libraries:</strong> A wealth of resources available for everything from web development to AI.</p>
+<p>But here's the catch; Python is not the best language for everything. While its flexibility is a strength, it also leads to some issues:</p>
+<p>🌀 <strong>Messy Code &amp; Maintainability:</strong> Since Python allows multiple ways to solve the same problem, different developers may write wildly different code styles, making large projects harder to maintain, understand, and follow up.<br>
+<!-- -->🦥 <strong>Performance Concerns:</strong>&nbsp;Python is interpreted and dynamically typed, so it is significantly slower than compiled languages like Java, Go, or C++.<br>
+<!-- -->📈 <strong>Scalability Issues:</strong> Python's looseness can lead to unintentional bugs and performance bottlenecks in large-scale enterprise applications.</p>
+<p>Python has dominated AI and data science not because it's the best language for every application but because of its early adoption in these fields, its rich ecosystem of libraries (NumPy, <a href="https://www.tensorflow.org/" target="_blank" rel="noopener noreferrer">TensorFlow</a>, <a href="https://pytorch.org/" target="_blank" rel="noopener noreferrer">PyTorch</a>), and the fact that AI workloads are largely <a href="https://opencv.org/blog/pytorch-vs-tensorflow/#h-key-features" target="_blank" rel="noopener noreferrer">GPU-bound</a>, making Python's CPU performance less of a concern.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="the-rise-of-ai-agents--javas-role">The Rise of AI Agents &amp; Java's Role<a href="https://escutia.me/adrian/you-code-go-like-you-code-java-donts-dos#the-rise-of-ai-agents--javas-role" class="hash-link" aria-label="Direct link to The Rise of AI Agents &amp; Java's Role" title="Direct link to The Rise of AI Agents &amp; Java's Role">​</a></h2>
+<p>With AI agents flooding the tech landscape, there's an opening for other languages to step in. Why? Because AI isn't just about training models; it's about integrating AI into existing enterprise systems, where Python isn't always the best fit.</p>
+<p>Enter Java. Java has long been a workhorse in enterprise environments, and as AI moves beyond research labs and into production systems, Java's strengths shine:</p>
+<p>⛑️ <strong>Robustness &amp; Maintainability:</strong> Java's strict typing and structured design make it ideal for mission-critical applications.<br>
+<!-- -->🦾 <strong>Performance &amp; Scalability:</strong> Unlike Python, Java can handle high-load applications with better performance and lower memory overhead.<br>
+<!-- -->📌 <strong>Interoperability:</strong> Java is deeply embedded in enterprise systems, making it easier to integrate AI-driven solutions without rewriting everything in Python.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="mcp-a-game-changer-for-java">MCP: A Game Changer for Java<a href="https://escutia.me/adrian/you-code-go-like-you-code-java-donts-dos#mcp-a-game-changer-for-java" class="hash-link" aria-label="Direct link to MCP: A Game Changer for Java" title="Direct link to MCP: A Game Changer for Java">​</a></h2>
+<p>One of the most significant developments for Java's future in AI is the MCP (Model Context Protocol, a protocol defined by Anthropic) initiative. Java is now evolving to be:</p>
+<p>☁️ <strong>More Cloud-Native:</strong> Emphasizing lightweight, scalable applications. See <a href="https://quarkus.io/guides/#categories=cloud" target="_blank" rel="noopener noreferrer">Quarkus</a> and <a href="https://spring.io/projects/spring-cloud" target="_blank" rel="noopener noreferrer">Spring</a>.<br>
+<!-- -->🤹🏼‍♂️ <strong>Better Suited for AI &amp; Microservices:</strong> As frameworks like <a href="https://spring.io/projects/spring-ai" target="_blank" rel="noopener noreferrer">Spring AI</a> and <a href="https://jakarta.ee/" target="_blank" rel="noopener noreferrer">Jakarta EE</a> evolve, Java can support AI workloads and distributed architectures more efficiently.<br>
+<!-- -->🧭 <strong>A First-Class Citizen in AI &amp; Enterprise Integration:</strong> Java isn't just surviving; it's thriving in the modern AI era.</p>
+<p>Thanks to initiatives like MCP, <a href="https://github.com/quarkiverse/quarkus-mcp-server" target="_blank" rel="noopener noreferrer">Quarkus MCP</a>, <a href="https://www.jbang.dev/" target="_blank" rel="noopener noreferrer">JBash</a>, and <a href="https://agentico.dev/" target="_blank" rel="noopener noreferrer">Agentico</a>, Java is becoming a more attractive option for AI-driven applications, bridging the gap between AI models and enterprise systems.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="what-does-this-mean-for-java-developers">What Does This Mean for Java Developers?<a href="https://escutia.me/adrian/you-code-go-like-you-code-java-donts-dos#what-does-this-mean-for-java-developers" class="hash-link" aria-label="Direct link to What Does This Mean for Java Developers?" title="Direct link to What Does This Mean for Java Developers?">​</a></h2>
+<p>Python has been considered the go-to language for AI for years, but as AI shifts from R&amp;D to real-world applications, Java is poised to become indispensable. Enterprises need robust, secure, and scalable solutions, and Java offers precisely that.</p>
+<p><strong>So, what's the takeaway?</strong></p>
+<p><img decoding="async" loading="lazy" alt="Java Python Balance" src="https://escutia.me/assets/images/java-python-balance-882491b46ed59588bd218e642476ca1e.svg" width="578" height="362" class="img_ev3q"></p>
+<p>🧬 If you're a Java developer, embrace the evolving role of Java in AI and enterprise systems. Learn about MCP, Quarkus, and other AI tools to stay ahead of the curve.
+🛟 If you're a polyglot developer, respect the paradigms of each language; don't write Go as if it were Java! 😜<br>
+<!-- -->🗺️ If you're building AI-powered applications, consider the whole picture; Python is great for AI models, but Java might be the right choice for production systems and backend integrations (AI Tools).</p>
+<p>What do you think? Is Java poised for a new era in AI and enterprise? Or will Python continue to dominate the AI space? Let's discuss it!</p>
+<p>Go Rebels! ✊🏻</p>]]></content:encoded>
+            <category>Java</category>
+            <category>Artificial Intelligence</category>
+            <category>Model Context Protocol</category>
+        </item>
         <item>
             <title><![CDATA[Java is Powerful, But Ain't Easy to Use]]></title>
             <link>https://escutia.me/adrian/java-is-powerful-but-aint-easy-to-use</link>
