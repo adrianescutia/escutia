@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkescutia_website=self.webpackChunkescutia_website||[]).push([[2341],{2364:e=>{e.exports=JSON.parse('{"metadata":{"permalink":"/adrian/page/2","page":2,"postsPerPage":10,"totalPages":2,"totalCount":11,"previousPage":"/adrian","blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
