@@ -126,3 +126,15 @@ mcp:
   label: Model Context Protocol
   permalink: /mcp
   description: Model Context Protocol is a protocol that enables seamless communication between LLM applications and systems integrations.
+postgresql:
+  label: PostgreSQL
+  permalink: /postgresql
+  description: PostgreSQL is a powerful, open source object-relational database system.
+supabase:
+  label: Supabase
+  permalink: /supabase
+  description: Supabase is an open-source Firebase alternative that provides a backend as a service.
+database:
+  label: Database
+  permalink: /database
+  description: Database topics and technologies.
